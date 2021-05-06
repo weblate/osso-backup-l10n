@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "back_ap_feature_name"
+msgstr "Varmuuskopio"
+
+msgid "back_ap_feature_title"
+msgstr "Varmuuskopio"
+
+msgid "back_bd_007_restore_button"
+msgstr "Kyllä"
+
+msgid "back_bd_backup"
+msgstr "Uusi varmuuskopio"
+
+msgid "back_bd_delete"
+msgstr "Poista"
+
+msgid "back_bd_dia002_ok"
+msgstr "Jatka"
+
+msgid "back_bd_dia003_ok"
+msgstr "Valitse"
+
+msgid "back_bd_dia010_ok"
+msgstr "Valmis"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Kyllä"
+
+msgid "back_bd_overwrite"
+msgstr "Kyllä"
+
+msgid "back_bd_overwrite_all"
+msgstr "Kyllä kaikkiin"
+
+msgid "back_bd_rename"
+msgstr "Nimeä uudell."
+
+msgid "back_bd_restore"
+msgstr "Palauta"
+
+msgid "back_bd_skip"
+msgstr "Ei"
+
+msgid "back_fi_application_list"
+msgstr "Sovellusluettelo"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"Käynnistetäänkö Sovellusten hallinta sovellusten uudelleenasentamiseksi?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"Palautetaanko %s?\n"
+"Kaikki sovellukset suljetaan"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"Palautetaanko %s?\n"
+"Kaikki sovellukset suljetaan, ennen kuin järjestelmä käynnistyy uudelleen, "
+"eivätkä toiminnot ole käytössä (hätäpuheluita ei voi soittaa)."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Varmuuskopio: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Virhe varmuuskopioinnissa"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"Ei voi varmuuskopioida.\n"
+"Päivitettävä varmuuskopio ei ole yhteensopiva laitteen kanssa."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Muistikortilla ei ole tarpeeksi tilaa varmuuskopiointiin.\n"
+"Käytettävissä oleva muisti: %s\n"
+"Tarvittava muisti: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Muistikorttia ei löydy.\n"
+"Aseta muistikortti uudelleen ja aloita alusta."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"Muistikorttiin tai kohdekansioon on vain lukuoikeudet.\n"
+"Aseta toinen kortti tai vaihda kansiota."
+
+msgid "back_fi_bookmarks"
+msgstr "Kirjanmerkit"
+
+msgid "back_fi_communication_calendar"
+msgstr "Viestintä ja kalenteri"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Varmuuskopio viallinen"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Poistetaanko varmuuskopio?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Sisältö:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Muistikortti ei ole käytettävissä.\n"
+"USB-kaapeli kytketty."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Muistikorttia ei ole asetettu"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Varmuuskopiot"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Varmuuskopion nimi"
+
+msgid "back_fi_dia002_location"
+msgstr "Sijainti"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Ulkoinen muistikortti"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"Laitteessa on jo samanniminen kansio.\n"
+"Estetäänkö tietojen menetys nimeämällä varmuuskopiokansio uudelleen?"
+
+msgid "back_fi_dia009_text_3"
+msgstr ""
+"Laitteessa on jo samanniminen tiedosto. Estetäänkö tietojen menetys "
+"nimeämällä varmuuskopiotiedosto uudelleen?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Laitteessa on tämän tiedoston uudempi versio:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Korvataanko tiedosto vanhalla varmuuskopiolla?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s palautettu"
+
+msgid "back_fi_dia010_text"
+msgstr "Seuraavien tietojen palautus on kesken:"
+
+msgid "back_fi_general_error"
+msgstr "Virhe"
+
+msgid "back_fi_memory_full"
+msgstr "Kohdemuisti täynnä"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Uusin versio: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(varmuuskopioita ei käytettävissä)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Ei varmuuskopioitavia tietoja"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Varmuuskopio valmis.\n"
+"%s varmuuskopioitu."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Palautus valmis.\n"
+"%s palautettu."
+
+msgid "back_fi_not026_msg"
+msgstr "Vanhempi varmuuskopio, joka on luotu %s klo %s, häviää. Jatketaanko?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Varmuuskopiointi peruutettiin.\n"
+"%1$d/ %2$d tiedostoa varmuuskopioitu."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Palautus peruutettiin.\n"
+"%1$d/%2$d tiedostoa palautettu."
+
+msgid "back_fi_other"
+msgstr "Muut tiedostot"
+
+msgid "back_fi_password_protect"
+msgstr "Suojaa salasanalla"
+
+msgid "back_fi_restore_general_error"
+msgstr "Virhe palautuksessa"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Ei voi palauttaa.\n"
+"Varmuuskopio ei ole yhteensopiva."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Laitteen muisti ei riitä palauttamiseen.\n"
+"Poista ensin osa tiedoista ja yritä uudelleen."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Muistikorttia ei löydy.\n"
+"Aseta muistikortti ja yritä uudelleen."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"Muistikortti poistettiin toiminnon aikana.\n"
+"Aseta muistikortti ja yritä uudelleen."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Peruutettu"
+
+msgid "back_fi_select_oneoption"
+msgstr "Valitse vähintään 1 vaihtoehto"
+
+msgid "back_fi_settings"
+msgstr "Asetukset"
+
+msgid "back_fi_unknown_error"
+msgstr "Tuntematon virhe"
+
+msgid "back_ia_dia002_name"
+msgstr "Varmuuskopio"
+
+msgid "back_ib_password_incorrect"
+msgstr "Väärä salasana"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f Mt"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f Mt"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f Gt"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kt"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f Mt"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d Mt"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f Gt"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kt"
+
+msgid "back_ti_backup_filter"
+msgstr "Valitse varmuuskopioitavat tiedot"
+
+msgid "back_ti_dia002_title"
+msgstr "Uusi varmuuskopio"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Palautus on kesken"
+
+msgid "back_ti_restore_filter"
+msgstr "Valitse palautettavat tiedot"
+
+msgid "back_ti_restore_query"
+msgstr "Versioristiriita"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"Varmuuskopioidaan\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Viimeistellään"
+
+msgid "back_va_initializing_restore"
+msgstr "Alustetaan"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"Palautetaan\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"

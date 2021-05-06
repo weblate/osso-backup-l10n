@@ -1,0 +1,311 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "back_ap_feature_name"
+msgstr "Рез. копия"
+
+msgid "back_ap_feature_title"
+msgstr "Рез. копия"
+
+msgid "back_bd_007_restore_button"
+msgstr "Да"
+
+msgid "back_bd_backup"
+msgstr "Новая рез. копия"
+
+msgid "back_bd_delete"
+msgstr "Удалить"
+
+msgid "back_bd_dia002_ok"
+msgstr "Продолжить"
+
+msgid "back_bd_dia003_ok"
+msgstr "Готово"
+
+msgid "back_bd_dia010_ok"
+msgstr "Готово"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Да"
+
+msgid "back_bd_overwrite"
+msgstr "Да"
+
+msgid "back_bd_overwrite_all"
+msgstr "Да, для всех"
+
+msgid "back_bd_rename"
+msgstr "Переименовать"
+
+msgid "back_bd_restore"
+msgstr "Восстановить"
+
+msgid "back_bd_skip"
+msgstr "Нет"
+
+msgid "back_fi_application_list"
+msgstr "Список приложений"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"Для повторной установки приложений требуется Диспетчер приложений.\n"
+"Запустить Диспетчер приложений?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"Восстановить %s?\n"
+"Все приложения будут закрыты"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"Восстановить %s?\n"
+"Перед восстановлением все приложения будут закрыты, все функции будут "
+"отключены (включая экстренные вызовы)."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr ""
+"Версия резервной копии:\n"
+" %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Ошибка резервного копирования"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"Не удается создать резервную копию.\n"
+"Обновляемая резервная копия несовместима с устройством."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Недостаточно места на карте памяти для завершения резервного копирования.\n"
+"Доступно: %s\n"
+"Требуется: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Карта памяти не найдена.\n"
+"Снова вставьте карту памяти и начните сначала."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"Карта памяти или папка назначения только для чтения.\n"
+"Вставьте другую карту или измените папку."
+
+msgid "back_fi_bookmarks"
+msgstr "Закладки"
+
+msgid "back_fi_communication_calendar"
+msgstr "Связь и календарь"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Резервная копия повреждена"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Удалить резервную копию?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Содержимое:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Карта памяти недоступна.\n"
+"Подключен USB-кабель."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Карта памяти не вставлена"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Рез. копии"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Имя резервной копии"
+
+msgid "back_fi_dia002_location"
+msgstr "Расположение"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Внешняя карта памяти"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"В устройстве есть папка с тем же именем.\n"
+"Переименовать папку из резервной копии во избежание потери данных?"
+
+msgid "back_fi_dia009_text_3"
+msgstr ""
+"В устройстве есть файл с тем же именем. Переименовать файл из резервной "
+"копии во избежание потери данных?"
+
+msgid "back_fi_dia009a_text"
+msgstr ""
+"В устройстве есть более поздняя версия\n"
+" этого файла:"
+
+msgid "back_fi_dia009b_text"
+msgstr ""
+"Заменить файл его предыдущей\n"
+" резервной копией?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "Восстановлено %s"
+
+msgid "back_fi_dia010_text"
+msgstr "Не полностью восстановлены следующие данные:"
+
+msgid "back_fi_general_error"
+msgstr "Ошибка"
+
+msgid "back_fi_memory_full"
+msgstr "Нет свободного места на целевом носителе"
+
+msgid "back_fi_newer_version_prompt"
+msgstr ""
+"Самая последняя версия:\n"
+" %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(резервные копии отсутствуют)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Нет данных для резервного копирования"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Резервное копирование завершено.\n"
+"Создана резервная копия %s."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Восстановление завершено.\n"
+"%s восстановлено."
+
+msgid "back_fi_not026_msg"
+msgstr "Предыдущая резервная копия %s на %s будет утрачена. Продолжить?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Создание резервной копии отменено.\n"
+"Успешно скопировано %1$d из %2$d файлов."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Восстановление отменено.\n"
+"Успешно восстановлено %1$d из %2$d файлов."
+
+msgid "back_fi_other"
+msgstr "Другие файлы"
+
+msgid "back_fi_password_protect"
+msgstr "Защитить паролем"
+
+msgid "back_fi_restore_general_error"
+msgstr "Ошибка восстановления"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Не удается восстановить.\n"
+"Несовместимая резервная копия."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Недостаточно памяти для сохранения на устройстве.\n"
+"Удалите некоторые данные и повторите попытку."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Карта памяти не найдена.\n"
+"Вставьте карту памяти и повторите попытку."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"Карта памяти извлечена во время выполнения операции.\n"
+"Установите карту и повторите попытку."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Отменено"
+
+msgid "back_fi_select_oneoption"
+msgstr "Следует выбрать хотя бы 1 параметр"
+
+msgid "back_fi_settings"
+msgstr "Параметры"
+
+msgid "back_fi_unknown_error"
+msgstr "Неизвестная ошибка"
+
+msgid "back_ia_dia002_name"
+msgstr "Рез. копия"
+
+msgid "back_ib_password_incorrect"
+msgstr "Неверный пароль"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f МБ"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f МБ"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f ГБ"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d КБ"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f МБ"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d МБ"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f ГБ"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d КБ"
+
+msgid "back_ti_backup_filter"
+msgstr "Выбрать данные для резервной копии"
+
+msgid "back_ti_dia002_title"
+msgstr "Новая рез. копия"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Неполное восстановление"
+
+msgid "back_ti_restore_filter"
+msgstr "Выбрать данные для восстановления"
+
+msgid "back_ti_restore_query"
+msgstr "Конфликт версий"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"Резервное копирование\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Завершение"
+
+msgid "back_va_initializing_restore"
+msgstr "Инициализация"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"Восстановление\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"

@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "back_ap_feature_name"
+msgstr "Backup"
+
+msgid "back_ap_feature_title"
+msgstr "Backup"
+
+msgid "back_bd_007_restore_button"
+msgstr "Sì"
+
+msgid "back_bd_backup"
+msgstr "Nuovo backup"
+
+msgid "back_bd_delete"
+msgstr "Elimina"
+
+msgid "back_bd_dia002_ok"
+msgstr "Continua"
+
+msgid "back_bd_dia003_ok"
+msgstr "Seleziona"
+
+msgid "back_bd_dia010_ok"
+msgstr "Fine"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Sì"
+
+msgid "back_bd_overwrite"
+msgstr "Sì"
+
+msgid "back_bd_overwrite_all"
+msgstr "Sì tutti"
+
+msgid "back_bd_rename"
+msgstr "Rinomina"
+
+msgid "back_bd_restore"
+msgstr "Ripristina"
+
+msgid "back_bd_skip"
+msgstr "No"
+
+msgid "back_fi_application_list"
+msgstr "Elenco delle applicazioni"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"Gestione applicazioni richiede la reinstallazione delle applicazioni.\n"
+"Avviare Gestione applicazioni ora?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"Ripristinare %s?\n"
+"Tutte le applicazioni verranno chiuse"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"Ripristinare '%s'?\n"
+"Prima del riavvio del sistema, tutte le applicazioni verranno chiuse e le "
+"funzioni disattivate (nessuna chiamata d'emergenza)."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Versione di backup: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Errore di backup"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"Impossibile eseguire il backup.\n"
+"Backup da aggiornare non compatibile con il dispositivo."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Memoria insufficiente sulla memory card per completare il backup.\n"
+"Memoria disponibile: %s\n"
+"Memoria richiesta: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Memory card non trovata.\n"
+"Reinserirla e riavviare."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"Memory card o cartella di destinazione di sola lettura.\n"
+"Inserire una scheda differente o cambiare cartella."
+
+msgid "back_fi_bookmarks"
+msgstr "Preferiti"
+
+msgid "back_fi_communication_calendar"
+msgstr "Comunicazione e calendario"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Backup danneggiato"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Eliminare il backup?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Contenuto:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Memory card non disponibile.\n"
+"Cavo USB collegato."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Nessuna memory card inserita"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Backup"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Nome"
+
+msgid "back_fi_dia002_location"
+msgstr "Posizione"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Memory card esterna"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"Il dispositivo contiene una cartella con lo stesso nome.\n"
+"Rinominare la cartella dal backup per evitare la perdita dei dati?"
+
+msgid "back_fi_dia009_text_3"
+msgstr ""
+"Il dispositivo contiene un file con lo stesso nome. Rinominare il file dal "
+"backup per evitare la perdita dei dati?"
+
+msgid "back_fi_dia009a_text"
+msgstr "È presente una versione più recente di questo file:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Sostituire il file con il backup meno recente?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s ripristinati"
+
+msgid "back_fi_dia010_text"
+msgstr "Ripristino dei dati seguenti incompleto:"
+
+msgid "back_fi_general_error"
+msgstr "Errore"
+
+msgid "back_fi_memory_full"
+msgstr "Memoria di destinazione piena"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Ultima versione: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(nessun backup disponibile)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Nessun dato di cui eseguire il backup"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Backup completato.\n"
+" %s archiviati."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Ripristino completato.\n"
+"Ripristinati: %s."
+
+msgid "back_fi_not026_msg"
+msgstr ""
+"Il precedente backup del %s ore %s andrà perso.\n"
+"Continuare?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Backup annullato.\n"
+"Backup eseguito correttamente per %1$d file su %2$d."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Ripristino annullato.\n"
+"Ripristino eseguito correttamente per %1$d file su %2$d."
+
+msgid "back_fi_other"
+msgstr "Altri file"
+
+msgid "back_fi_password_protect"
+msgstr "Protezione con password"
+
+msgid "back_fi_restore_general_error"
+msgstr "Errore di ripristino"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Impossibile ripristinare.\n"
+"Backup non compatibile."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Memoria insufficiente sul dispositivo.\n"
+"Eliminare prima alcuni dati e riprovare."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Nessuna memory card rilevata.\n"
+"Inserirne una e riprovare."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"Memory card rimossa durante il ripristino.\n"
+"Reinserirla e riprovare."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Annullato"
+
+msgid "back_fi_select_oneoption"
+msgstr "Selezionare almeno un'opzione"
+
+msgid "back_fi_settings"
+msgstr "Impostazioni"
+
+msgid "back_fi_unknown_error"
+msgstr "Errore sconosciuto"
+
+msgid "back_ia_dia002_name"
+msgstr "Backup"
+
+msgid "back_ib_password_incorrect"
+msgstr "Password errata"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d KB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d KB"
+
+msgid "back_ti_backup_filter"
+msgstr "Seleziona i dati per il backup"
+
+msgid "back_ti_dia002_title"
+msgstr "Nuovo backup"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Ripristino incompleto"
+
+msgid "back_ti_restore_filter"
+msgstr "Seleziona i dati da ripristinare"
+
+msgid "back_ti_restore_query"
+msgstr "Conflitto di versioni"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"Backup in corso\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Finalizzazione"
+
+msgid "back_va_initializing_restore"
+msgstr "Inizializzazione in corso"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"Ripristino in corso\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"

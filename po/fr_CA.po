@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "back_ap_feature_name"
+msgstr "Sauvegarde"
+
+msgid "back_ap_feature_title"
+msgstr "Sauvegarde"
+
+msgid "back_bd_007_restore_button"
+msgstr "Oui"
+
+msgid "back_bd_backup"
+msgstr "Nvelle sauvegarde"
+
+msgid "back_bd_delete"
+msgstr "Supprimer"
+
+msgid "back_bd_dia002_ok"
+msgstr "Continuer"
+
+msgid "back_bd_dia003_ok"
+msgstr "Sélectionner"
+
+msgid "back_bd_dia010_ok"
+msgstr "Terminer"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Oui"
+
+msgid "back_bd_overwrite"
+msgstr "Oui"
+
+msgid "back_bd_overwrite_all"
+msgstr "Oui pour tous"
+
+msgid "back_bd_rename"
+msgstr "Renommer"
+
+msgid "back_bd_restore"
+msgstr "Restaurer"
+
+msgid "back_bd_skip"
+msgstr "Non"
+
+msgid "back_fi_application_list"
+msgstr "Liste d'applications"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"Le Gestionnaire d'applications est requis pour réinstaller des "
+"applications.\n"
+"Démarrer le Gestionnaire d'applications maintenant ?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"Restaurer %s ?\n"
+"Toutes les applications seront fermées."
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"Restaurer %s ?\n"
+"Avant le redémarrage du système, toutes les applications seront fermées et "
+"toutes les fonctions seront désactivées (y compris les appels d'urgence)."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Version sauvegardée : %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Erreur de sauvegarde"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"Impossible de sauvegarder.\n"
+"La sauvegarde à mettre à jour n'est pas compatible avec le terminal."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Espace insuffisant sur carte mémoire pour la sauvegarde.\n"
+"Mémoire disponible : %s\n"
+"Mémoire requise : %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Carte mémoire introuvable.\n"
+"Réinsérer la carte et recommencer."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"Carte mémoire ou dossier de destination en lecture seule.\n"
+"Insérer une autre carte mémoire ou changer de dossier."
+
+msgid "back_fi_bookmarks"
+msgstr "Signets"
+
+msgid "back_fi_communication_calendar"
+msgstr "Communications et Calendrier"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Sauvegarde endommagée"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Supprimer la sauvegarde ?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Contenu :"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Carte mémoire inaccessible.\n"
+"Câble USB connecté."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Aucune carte mémoire insérée"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Sauvegardes"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Nom de la sauvegarde"
+
+msgid "back_fi_dia002_location"
+msgstr "Emplacement"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Carte mémoire externe"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"Le terminal contient un dossier portant le même nom.\n"
+"Renommer le dossier de la sauvegarde pour éviter toute perte de données ?"
+
+msgid "back_fi_dia009_text_3"
+msgstr ""
+"Le terminal contient un fichier portant le même nom. Renommer le fichier de "
+"sauvegarde pour éviter toute perte de données ?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Le terminal contient une version plus récente de :"
+
+msgid "back_fi_dia009b_text"
+msgstr "Remplacer la dernière version par la sauvegarde ?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s restaurés"
+
+msgid "back_fi_dia010_text"
+msgstr "Restauration des données suivantes incomplète"
+
+msgid "back_fi_general_error"
+msgstr "Erreur"
+
+msgid "back_fi_memory_full"
+msgstr "Mémoire cible saturée"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Dernière version : %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(aucune sauvegarde trouvée)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Aucune donnée à sauvegarder"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Sauvegarde terminée.\n"
+"%s sauvegardés."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Restauration terminée.\n"
+"%s restaurés."
+
+msgid "back_fi_not026_msg"
+msgstr ""
+"La sauvegarde du même nom, datant du\n"
+"%s à %s, sera perdue. Continuer ?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Sauvegarde annulée.\n"
+"Fichiers sauvegardés : %1$d sur %2$d"
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Restauration annulée.\n"
+"%1$d fichiers sauvegardés sur %2$d."
+
+msgid "back_fi_other"
+msgstr "Autres fichiers"
+
+msgid "back_fi_password_protect"
+msgstr "Protéger par mot de passe"
+
+msgid "back_fi_restore_general_error"
+msgstr "Erreur de restauration"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Impossible de restaurer.\n"
+"Sauvegarde non compatible."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Mémoire du terminal insuffisante.\n"
+"Supprimer d'abord des données et recommencer."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Aucune carte mémoire détectée.\n"
+"Insérer une carte et recommencer."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"Carte mémoire retirée durant l'opération.\n"
+"Réinsérer la carte et recommencer."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Annulée"
+
+msgid "back_fi_select_oneoption"
+msgstr "Au moins une option doit être sélectionnée"
+
+msgid "back_fi_settings"
+msgstr "Paramètres"
+
+msgid "back_fi_unknown_error"
+msgstr "Erreur inconnue"
+
+msgid "back_ia_dia002_name"
+msgstr "Sauvegarde"
+
+msgid "back_ib_password_incorrect"
+msgstr "Mot de passe non valide"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f Mo"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f Mo"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f Go"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d Ko"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f Mo"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d Mo"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f Go"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d Ko"
+
+msgid "back_ti_backup_filter"
+msgstr "Sélectionner les données à sauvegarder"
+
+msgid "back_ti_dia002_title"
+msgstr "Nouvelle sauvegarde"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Restauration incomplète"
+
+msgid "back_ti_restore_filter"
+msgstr "Sélectionner les données à restaurer"
+
+msgid "back_ti_restore_query"
+msgstr "Conflit de versions"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"Sauvegarde de\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Bientôt terminée"
+
+msgid "back_va_initializing_restore"
+msgstr "Initialisation"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"Restauration de\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d %%"

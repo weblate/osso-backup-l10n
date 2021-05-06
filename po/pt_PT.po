@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "back_ap_feature_name"
+msgstr "Cópia de seg."
+
+msgid "back_ap_feature_title"
+msgstr "Cópia de segurança"
+
+msgid "back_bd_007_restore_button"
+msgstr "Sim"
+
+msgid "back_bd_backup"
+msgstr "Nova cópia"
+
+msgid "back_bd_delete"
+msgstr "Eliminar"
+
+msgid "back_bd_dia002_ok"
+msgstr "Prosseguir"
+
+msgid "back_bd_dia003_ok"
+msgstr "Seleccionar"
+
+msgid "back_bd_dia010_ok"
+msgstr "Terminar"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Sim"
+
+msgid "back_bd_overwrite"
+msgstr "Sim"
+
+msgid "back_bd_overwrite_all"
+msgstr "Sim a tudo"
+
+msgid "back_bd_rename"
+msgstr "Renomear"
+
+msgid "back_bd_restore"
+msgstr "Restaurar"
+
+msgid "back_bd_skip"
+msgstr "Não"
+
+msgid "back_fi_application_list"
+msgstr "Lista de aplicações"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"É necessário o Gestor de aplicações para que as aplicações sejam "
+"reinstaladas.\n"
+"Iniciar o Gestor de aplicações agora?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"Restaurar %s?\n"
+"Todas as aplicações serão fechadas"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"Restaurar '%s'?\n"
+"Antes do sistema ser reiniciado, todas as aplicações serão fechadas e as "
+"funções desactivadas (incluindo chamadas de emergência)."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr ""
+"Versão da cópia de segurança:\n"
+" %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Ocorreu um erro ao criar a cópia de segurança"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"Não foi possível criar a cópia de segurança.\n"
+"A cópia de segurança a actualizar é incompatível com o dispositivo."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Memória insuficiente para concluir a cópia de segurança.\n"
+"Memória disponível: %s\n"
+"Memória necessária: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Cartão de memória não encontrado.\n"
+"Volte a inserir o cartão de memória e tente novamente."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"O cartão de memória ou pasta de destino é só de leitura.\n"
+"Introduza um cartão diferente ou altere a pasta."
+
+msgid "back_fi_bookmarks"
+msgstr "Marcadores"
+
+msgid "back_fi_communication_calendar"
+msgstr "Comunicações e Agenda"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Cópia de segurança danificada"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Eliminar a cópia de segurança?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Conteúdo:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Cartão de memória não disponível.\n"
+"Cabo USB ligado."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Nenhum cartão de memória inserido"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Cópias de segurança"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Nome da cópia de segurança"
+
+msgid "back_fi_dia002_location"
+msgstr "Localização"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Cartão de memória externo"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"O dispositivo contém uma pasta com o mesmo nome.\n"
+"Renomear a pasta da cópia de segurança para evitar a perda de dados?"
+
+msgid "back_fi_dia009_text_3"
+msgstr ""
+"O dispositivo contém um ficheiro com o mesmo nome. Renomear o ficheiro da "
+"cópia de segurança para evitar a perda de dados?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Foi encontrada uma versão mais recente do ficheiro:"
+
+msgid "back_fi_dia009b_text"
+msgstr ""
+"Substituir a versão actual pelo ficheiro de cópia de\n"
+" segurança mais antigo?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s restaurado(s)"
+
+msgid "back_fi_dia010_text"
+msgstr "Restauro incompleto dos dados seguintes:"
+
+msgid "back_fi_general_error"
+msgstr "Erro"
+
+msgid "back_fi_memory_full"
+msgstr "Memória de destino cheia"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Versão mais recente: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(nenhuma cópia de segurança disponível)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Sem dados para criar a cópia de segurança"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Cópia de segurança concluída.\n"
+"Criada cópia de segurança de %s."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Restauro concluído.\n"
+"%s restaurado(s)."
+
+msgid "back_fi_not026_msg"
+msgstr "A cópia de segurança mais antiga de %s em %s será perdida. Prosseguir?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Cópia de segurança cancelada.\n"
+"%1$d de %2$d ficheiros guardados com êxito na cópia de segurança."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Restauração cancelada.\n"
+"%1$d de %2$d ficheiros restaurados com êxito."
+
+msgid "back_fi_other"
+msgstr "Outros ficheiros"
+
+msgid "back_fi_password_protect"
+msgstr "Proteger com palavra-passe"
+
+msgid "back_fi_restore_general_error"
+msgstr "Ocorreu um erro ao restaurar"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Não foi possível restaurar.\n"
+"Cópia de segurança incompatível."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Memória de armazenamento insuficiente no dispositivo.\n"
+"Elimine primeiro alguns dados e tente novamente."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Nenhum cartão de memória detectado.\n"
+"Insira um cartão e tente novamente."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"Cartão de memória retirado durante a operação.\n"
+"Reinsira o cartão e tente novamente."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Cancelado"
+
+msgid "back_fi_select_oneoption"
+msgstr "É necessário seleccionar, pelo menos, uma opção"
+
+msgid "back_fi_settings"
+msgstr "Definições"
+
+msgid "back_fi_unknown_error"
+msgstr "Erro desconhecido"
+
+msgid "back_ia_dia002_name"
+msgstr "Cópia de segurança"
+
+msgid "back_ib_password_incorrect"
+msgstr "Palavra-passe incorrecta"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "Seleccionar dados para a cópia de segurança"
+
+msgid "back_ti_dia002_title"
+msgstr "Nova cópia"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Restauro incompleto"
+
+msgid "back_ti_restore_filter"
+msgstr "Seleccionar dados a restaurar"
+
+msgid "back_ti_restore_query"
+msgstr "Conflito de versões"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"A criar cópia de segurança de\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "A finalizar"
+
+msgid "back_va_initializing_restore"
+msgstr "A inicializar"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"A restaurar\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"

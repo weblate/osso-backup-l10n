@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "back_ap_feature_name"
+msgstr "Kopia zapasowa"
+
+msgid "back_ap_feature_title"
+msgstr "Kopia zapasowa"
+
+msgid "back_bd_007_restore_button"
+msgstr "Tak"
+
+msgid "back_bd_backup"
+msgstr "Nowa kopia"
+
+msgid "back_bd_delete"
+msgstr "Usuń"
+
+msgid "back_bd_dia002_ok"
+msgstr "Kontynuuj"
+
+msgid "back_bd_dia003_ok"
+msgstr "Wybierz"
+
+msgid "back_bd_dia010_ok"
+msgstr "Zakończ"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Tak"
+
+msgid "back_bd_overwrite"
+msgstr "Tak"
+
+msgid "back_bd_overwrite_all"
+msgstr "Tak na wszyst."
+
+msgid "back_bd_rename"
+msgstr "Zmień nazwę"
+
+msgid "back_bd_restore"
+msgstr "Przywróć"
+
+msgid "back_bd_skip"
+msgstr "Nie"
+
+msgid "back_fi_application_list"
+msgstr "Lista aplikacji"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"Menedżer aplikacji wymagał ponownego zainstalowania aplikacji.\n"
+"Uruchomić Menedżera aplikacji?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"Przywrócić %s?\n"
+"Wszystkie aplikacje zostaną zamknięte"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"Przywrócić „%s”?\n"
+"Przed ponownym uruchomieniem się systemu wszystkie aplikacje zostaną "
+"zamknięte, a funkcje (w tym wykonywanie połączeń alarmowych) wyłączone."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Wersja kopii zapas.: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Błąd kopii zapasowej"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"Nie można utworzyć kopii zapasowej.\n"
+"Kopia zapasowa do aktualizacji niezgodna z urządzeniem."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Za mało miejsca na karcie pamięci, aby zakończyć tworzenie kopii zapasowej.\n"
+"Dostępna pamięć: %s\n"
+"Wymagana pamięć: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Nie znaleziono karty pamięci.\n"
+"Włóż kartę i spróbuj ponownie."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"Karta pamięci lub folder docelowy tylko do odczytu.\n"
+"Włóż inną kartę lub zmień folder."
+
+msgid "back_fi_bookmarks"
+msgstr "Zakładki"
+
+msgid "back_fi_communication_calendar"
+msgstr "Komunikacja i Kalendarz"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Kopia zapasowa uszkodzona"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Usunąć kopię zapasową?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Zawartość:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Karta pamięci niedostępna.\n"
+"Podłączono kabel USB."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Nie włożono karty pamięci"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Kopie zapasowe"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Nazwa kopii zapasowej"
+
+msgid "back_fi_dia002_location"
+msgstr "Lokalizacja"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Zewnętrzna karta pamięci"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"Urządzenie zawiera folder o tej samej nazwie.\n"
+"Zmienić nazwę folderu z kopii zapasowej, aby zapobiec utracie danych?"
+
+msgid "back_fi_dia009_text_3"
+msgstr ""
+"Urządzenie zawiera plik o tej samej nazwie. Zmienić nazwę pliku z kopii "
+"zapasowej, aby zapobiec utracie danych?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Urządzenie zawiera nowszą wersję pliku:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Zastąpić plik jego starszą kopią zapasową?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "Przywrócono: %s"
+
+msgid "back_fi_dia010_text"
+msgstr "Nie przywrócono wszystkich danych dla:"
+
+msgid "back_fi_general_error"
+msgstr "Błąd"
+
+msgid "back_fi_memory_full"
+msgstr "Pamięć docelowa pełna"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Najnowsza wersja: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(brak dostępnych kopii zapasowych)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Brak danych do utworzenia kopii zapasowej"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Tworzenie kopii zapasowej zakończone.\n"
+"Skopiowano: %s."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Przywracanie zakończone.\n"
+"Przywrócono: %s."
+
+msgid "back_fi_not026_msg"
+msgstr ""
+"Starsza kopia zapasowa, utworzona %s o %s, zostanie utracona. Kontynuować?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Tworzenie kopii zapasowej anulowane.\n"
+"Skopiowano %1$d z %2$d plików."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Przywracanie anulowane.\n"
+"Przywrócono %1$d z %2$d plików."
+
+msgid "back_fi_other"
+msgstr "Inne pliki"
+
+msgid "back_fi_password_protect"
+msgstr "Chroń hasłem"
+
+msgid "back_fi_restore_general_error"
+msgstr "Wystąpił błąd przywracania"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Nie można przywrócić.\n"
+"Niezgodna kopia zapasowa."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Za mało miejsca w pamięci urządzenia.\n"
+"Usuń niektóre dane i spróbuj ponownie."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Nie wykryto karty pamięci.\n"
+"Włóż kartę i spróbuj ponownie."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"Podczas operacji wyjęto kartę pamięci.\n"
+"Włóż kartę i spróbuj ponownie."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Anulowano"
+
+msgid "back_fi_select_oneoption"
+msgstr "Wybierz co najmniej 1 opcję"
+
+msgid "back_fi_settings"
+msgstr "Ustawienia"
+
+msgid "back_fi_unknown_error"
+msgstr "Nieznany błąd"
+
+msgid "back_ia_dia002_name"
+msgstr "Kopia zapasowa"
+
+msgid "back_ib_password_incorrect"
+msgstr "Nieprawidłowe hasło"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d KB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d KB"
+
+msgid "back_ti_backup_filter"
+msgstr "Wybierz dane do utworzenia kopii zapasowej"
+
+msgid "back_ti_dia002_title"
+msgstr "Nowa kopia"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Nie przywrócono wszystkich danych"
+
+msgid "back_ti_restore_filter"
+msgstr "Wybierz dane do przywrócenia"
+
+msgid "back_ti_restore_query"
+msgstr "Konflikt wersji"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"Tworzenie kopii zapasowej\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Finalizowanie"
+
+msgid "back_va_initializing_restore"
+msgstr "Inicjalizacja"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"Przywracanie\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d %%"

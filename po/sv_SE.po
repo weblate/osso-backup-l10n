@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "back_ap_feature_name"
+msgstr "Säkerhetskopia"
+
+msgid "back_ap_feature_title"
+msgstr "Säkerhetskopia"
+
+msgid "back_bd_007_restore_button"
+msgstr "Ja"
+
+msgid "back_bd_backup"
+msgstr "Ny säkerhetskopia"
+
+msgid "back_bd_delete"
+msgstr "Ta bort"
+
+msgid "back_bd_dia002_ok"
+msgstr "Fortsätt"
+
+msgid "back_bd_dia003_ok"
+msgstr "Välj"
+
+msgid "back_bd_dia010_ok"
+msgstr "Slutför"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Ja"
+
+msgid "back_bd_overwrite"
+msgstr "Ja"
+
+msgid "back_bd_overwrite_all"
+msgstr "Ja till alla"
+
+msgid "back_bd_rename"
+msgstr "Ändra namn"
+
+msgid "back_bd_restore"
+msgstr "Återställ"
+
+msgid "back_bd_skip"
+msgstr "Nej"
+
+msgid "back_fi_application_list"
+msgstr "Programlista"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"Programhanteraren krävs för att ominstallera program.\n"
+"Starta Programhanteraren nu?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"Vill du återställa %s?\n"
+"Alla program stängs"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"Återställa '%s'?\n"
+"Alla program och funktioner avslutas innan systemet startar om (inklusive "
+"nödsamtal)."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Säkerhetskopierad version: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Fel vid säkerhetskopiering"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"Det gick inte att säkerhetskopiera.\n"
+"Den säkerhetskopia som ska uppdateras är inkompatibel med enheten."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Det finns inte tillräckligt med minne på minneskortet för att slutföra "
+"säkerhetskopieringen.\n"
+"Tillgängligt minne: %s\n"
+"Minne som krävs: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Det gick inte att hitta minneskortet.\n"
+"Sätt in minneskortet igen och börja om."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"Minneskortet eller målmappen är skrivskyddad.\n"
+"Sätt in ett annat kort eller byt mapp."
+
+msgid "back_fi_bookmarks"
+msgstr "Bokmärken"
+
+msgid "back_fi_communication_calendar"
+msgstr "Kommunikation och kalender"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Säkerhetskopia skadad"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Ta bort säkerhetskopia?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Innehåll:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Minneskortet är inte tillgängligt.\n"
+"USB-kabeln är ansluten."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Inget minneskort sitter i"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Säkerhetskopior"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Namn på säkerhetskopiering"
+
+msgid "back_fi_dia002_location"
+msgstr "Plats"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Externt minneskort"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"Enheten innehåller en mapp med samma namn.\n"
+"Vill du ändra namn på säkerhetskopian av mappen för att förhindra att data "
+"tas bort?"
+
+msgid "back_fi_dia009_text_3"
+msgstr ""
+"Enheten innehåller en mapp med samma namn. Vill du ändra namn på "
+"säkerhetskopian av filen för att förhindra att data tas bort?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Enheten innehåller en senare version av den här filen:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Ersätta filen med dess äldre säkerhetskopia?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s återställda"
+
+msgid "back_fi_dia010_text"
+msgstr "Återställning av följande data ofullständig:"
+
+msgid "back_fi_general_error"
+msgstr "Fel"
+
+msgid "back_fi_memory_full"
+msgstr "Målminnet fullt"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Senaste version: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(inga säkerhetskopior tillgängliga)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Inga data att säkerhetskopiera"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Säkerhetskopiering klar.\n"
+"%s säkerhetskopierad."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Återställning klar.\n"
+"%s återställd."
+
+msgid "back_fi_not026_msg"
+msgstr ""
+"Den äldre säkerhetskopian från %s klockan %s kommer att försvinna. Vill du "
+"fortsätta?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Säkerhetskopieringen avbröts.\n"
+"%1$d av %2$d filer har säkerhetskopierats."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Återställningen avbröts.\n"
+"%1$d av %2$d filer har återställts."
+
+msgid "back_fi_other"
+msgstr "Andra filer"
+
+msgid "back_fi_password_protect"
+msgstr "Skydda med lösenord"
+
+msgid "back_fi_restore_general_error"
+msgstr "Fel vid återställning"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Det gick inte att återställa.\n"
+"Inkompatibel säkerhetskopia."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Otillräckligt med lagringsminne på enheten.\n"
+"Ta bort data först och försök igen."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Inget minneskort hittades.\n"
+"Sätt in ett kort och försök igen."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"Minneskortet togs ut under åtgärden.\n"
+"Sätt in kortet och försök igen."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Avbrutet"
+
+msgid "back_fi_select_oneoption"
+msgstr "Minst 1 alternativ måste väljas"
+
+msgid "back_fi_settings"
+msgstr "Inställningar"
+
+msgid "back_fi_unknown_error"
+msgstr "Okänt fel"
+
+msgid "back_ia_dia002_name"
+msgstr "Säkerhetskopia"
+
+msgid "back_ib_password_incorrect"
+msgstr "Felaktigt lösenord"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "Välj data för säkerhetskopiering"
+
+msgid "back_ti_dia002_title"
+msgstr "Ny säkerhetskopia"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Ofullständig återställning"
+
+msgid "back_ti_restore_filter"
+msgstr "Välj data för återställning"
+
+msgid "back_ti_restore_query"
+msgstr "Versionskonflikt"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"Säkerhetskopierar\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Slutför"
+
+msgid "back_va_initializing_restore"
+msgstr "Initierar"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"Återställer\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"

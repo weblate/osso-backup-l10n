@@ -1,0 +1,302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "back_ap_feature_name"
+msgstr "Back-up"
+
+msgid "back_ap_feature_title"
+msgstr "Back-up"
+
+msgid "back_bd_007_restore_button"
+msgstr "Ja"
+
+msgid "back_bd_backup"
+msgstr "Nieuwe back-up"
+
+msgid "back_bd_delete"
+msgstr "Verwijderen"
+
+msgid "back_bd_dia002_ok"
+msgstr "Doorgaan"
+
+msgid "back_bd_dia003_ok"
+msgstr "Selecteer"
+
+msgid "back_bd_dia010_ok"
+msgstr "Voltooien"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Ja"
+
+msgid "back_bd_overwrite"
+msgstr "Ja"
+
+msgid "back_bd_overwrite_all"
+msgstr "Ja op alles"
+
+msgid "back_bd_rename"
+msgstr "Wijzig naam"
+
+msgid "back_bd_restore"
+msgstr "Herstellen"
+
+msgid "back_bd_skip"
+msgstr "Nee"
+
+msgid "back_fi_application_list"
+msgstr "Toepassingslijst"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"Toepassingsbeheer vereist voor het opnieuw installeren van toepassingen.\n"
+"Nu Toepassingsbeheer starten?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"%s herstellen?\n"
+"Alle toepassingen worden gesloten."
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"'%s' herstellen?\n"
+"Voordat het systeem opnieuw wordt opgestart, worden alle toepassing gesloten "
+"en zijn alle functies uitgeschakeld (noodoproepen niet mogelijk)."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Back-upversie: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Fout tijdens back-up"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"Kan geen back-up maken.\n"
+"De back-up die u wilt bijwerken, is niet compatibel met het apparaat."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Onvoldoende geheugen op de geheugenkaart om de back-up te voltooien.\n"
+"Beschikbaar geheugen: %s\n"
+"Vereist geheugen: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Geheugenkaart niet gevonden.\n"
+"Plaats de geheugenkaart terug en probeer het opnieuw."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"Geheugenkaart of doelmap is alleen-lezen.\n"
+"Plaats een andere kaart of kies een andere map."
+
+msgid "back_fi_bookmarks"
+msgstr "Favorieten"
+
+msgid "back_fi_communication_calendar"
+msgstr "Communicatie en kalender"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Back-up beschadigd"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Back-up verwijderen?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Inhoud:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Geheugenkaart niet beschikbaar.\n"
+"USB-kabel aangesloten."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Geen geheugenkaart geplaatst"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Back-ups"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Naam van back-up"
+
+msgid "back_fi_dia002_location"
+msgstr "Locatie"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Externe geheugenkaart"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"Apparaat bevat een map met dezelfde naam.\n"
+"Naam map uit de back-up wijzigen om verlies van gegevens te voorkomen?"
+
+msgid "back_fi_dia009_text_3"
+msgstr ""
+"Apparaat bevat een bestand met dezelfde naam.\n"
+"Naam bestand uit de back-up wijzigen om verlies van gegevens te voorkomen?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Apparaat bevat een recentere versie van dit bestand:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Het bestand vervangen door de oudere back-up?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s hersteld"
+
+msgid "back_fi_dia010_text"
+msgstr "De volgende gegevens zijn onvolledig hersteld:"
+
+msgid "back_fi_general_error"
+msgstr "Fout"
+
+msgid "back_fi_memory_full"
+msgstr "Doelgeheugen vol"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Meest recente versie: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(geen back-ups beschikbaar)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Geen gegevens voor back-up"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Back-up voltooid.\n"
+"%s in back-up."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Herstellen voltooid.\n"
+"%s hersteld."
+
+msgid "back_fi_not026_msg"
+msgstr "De vorige back-up van %s op %s gaat verloren. Doorgaan?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Back-up geannuleerd.\n"
+"%1$d van %2$d bestanden met succes in de back-up opgenomen."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Herstellen geannuleerd.\n"
+"%1$d van %2$d bestanden met succes hersteld."
+
+msgid "back_fi_other"
+msgstr "Overige bestanden"
+
+msgid "back_fi_password_protect"
+msgstr "Beveiligen met wachtwoord"
+
+msgid "back_fi_restore_general_error"
+msgstr "Fout tijdens herstellen"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Kan niet herstellen.\n"
+"Back-up niet compatibel."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Onvoldoende opslaggeheugen op apparaat.\n"
+"Verwijder eerst een aantal gegevens en probeer het opnieuw."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Geen geheugenkaart gedetecteerd.\n"
+"Plaats een kaart en probeer het opnieuw."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"Geheugenkaart verwijderd tijdens de bewerking.\n"
+"Plaats de kaart terug en probeer het opnieuw."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Geannuleerd"
+
+msgid "back_fi_select_oneoption"
+msgstr "Er moet ten minste 1 optie zijn geselecteerd"
+
+msgid "back_fi_settings"
+msgstr "Instellingen"
+
+msgid "back_fi_unknown_error"
+msgstr "Onbekende fout"
+
+msgid "back_ia_dia002_name"
+msgstr "Back-up"
+
+msgid "back_ib_password_incorrect"
+msgstr "Wachtwoord onjuist"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "Gegevens selecteren voor back-up"
+
+msgid "back_ti_dia002_title"
+msgstr "Nieuwe back-up"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Herstel onvolledig"
+
+msgid "back_ti_restore_filter"
+msgstr "Gegevens selecteren voor herstellen"
+
+msgid "back_ti_restore_query"
+msgstr "Versieconflict"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"Bezig met back-up maken\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Bezig met finaliseren"
+
+msgid "back_va_initializing_restore"
+msgstr "Bezig met initialiseren"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"Herstellen\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
