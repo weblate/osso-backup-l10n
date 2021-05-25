@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-02-24 12:13+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "back_ap_feature_name"
+msgstr "Bizt. mentés"
+
+msgid "back_ap_feature_title"
+msgstr "Biztonsági mentés"
+
+msgid "back_bd_007_restore_button"
+msgstr "Igen"
+
+msgid "back_bd_backup"
+msgstr "Új biztonsági mentés"
+
+msgid "back_bd_delete"
+msgstr "Törlés"
+
+msgid "back_bd_dia002_ok"
+msgstr "Tovább"
+
+msgid "back_bd_dia003_ok"
+msgstr "Tovább"
+
+msgid "back_bd_dia010_ok"
+msgstr "Befejez"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Igen"
+
+msgid "back_bd_overwrite"
+msgstr "Igen"
+
+msgid "back_bd_overwrite_all"
+msgstr "Igen, mindet"
+
+msgid "back_bd_rename"
+msgstr "Átnevez"
+
+msgid "back_bd_restore"
+msgstr "Helyreállít"
+
+msgid "back_bd_skip"
+msgstr "Nem"
+
+msgid "back_fi_application_list"
+msgstr "Alkalmazás lista"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"Az Alkalmazás kezelővel újra kell telepíteni alkalmazásokat.\n"
+"Elindítod az Alkalmazás kezelőt most?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"Visszaállítod ezt: %s?\n"
+"Minden alkalmazás be fog záródni."
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"Visszaállítod ezt '%s'?\n"
+"Mielőtt a rendszer újraindítja önmagát minden alkalmazás be fog záródni, minden funkció le lesz tiltva (segélyhívás is)."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Biztonsági mentés verzió: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Biztonsági mentés hiba"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"A biztonsági mentést nem lehet elvégezni.\n"
+"A frissítendő biztonsági mentés nem kompatibilis az eszközzel."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Nincs elegendő szabad hely a memóriakártyán a biztonsági mentés befejezéséhez.\n"
+"Rendelkezésre álló memória: %s\n"
+"Szükséges memória: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Memóriakártya nem található.\n"
+"Helyezz be egy memóriakártyát és próbáld újra."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"A memóriakártya vagy a cél mappa csak olvasható.\n"
+"Helyezz be másik memóriakártyát vagy válassz másik mappát."
+
+msgid "back_fi_bookmarks"
+msgstr "Könyvjelzők"
+
+msgid "back_fi_communication_calendar"
+msgstr "Kommunikáció és Naptár"
+
+msgid "back_fi_corrupt_backup"
+msgstr "A biztonsági mentés hibás"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Törlöd a biztonsági mentést?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Tartalom:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Memóriakártya nem elérhető.\n"
+"USB kábel csatlakoztatva."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "A memóriakártya nincs behelyezve"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Biztonsági mentések"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Biztonsági mentés neve"
+
+msgid "back_fi_dia002_location"
+msgstr "Hely"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Külső memóriakártya"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"Az eszköz már tartalmaz egy mappát ezen a néven.\n"
+"Átnevezed a mappát az adatvesztések elkerülése érdekében?"
+
+msgid "back_fi_dia009_text_3"
+msgstr "Az eszköz már tartalmaz egy fájlt ezen a néven. Átnevezed a fájlt az adatvesztések elkerülése érdekében?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Az eszköz tartalmazza egy pár nem régi változatát ennek a fájlnak:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Kicseréled a fájlt egy régebbi biztonsági másolatára?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s visszaállítva"
+
+msgid "back_fi_dia010_text"
+msgstr "A következő adatok visszaállítása nem teljes:"
+
+msgid "back_fi_general_error"
+msgstr "Hiba"
+
+msgid "back_fi_memory_full"
+msgstr "Cél memória megtelt"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Legfrissebb változat: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(nincs elérhető biztonsági mentés)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Nincs adat a biztonsági mentéshez"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Biztonsági mentés befejezve.\n"
+"%s biztonsági mentés kész."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Visszaállítás befejezve.\n"
+"%s visszaállítva."
+
+msgid "back_fi_not026_msg"
+msgstr "A régebbi biztonsági mentés melynek dátuma %s, ideje %s el fog veszni. Folytatod?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Biztonsági mentés leállítva.\n"
+"%1$d / %2$d fájl biztonsági mentése sikeresen végrehajtva."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Visszaállítás leállítva.\n"
+"%1$d / %2$d fájl sikeresen visszaállítva."
+
+msgid "back_fi_other"
+msgstr "Egyéb fájlok"
+
+msgid "back_fi_password_protect"
+msgstr "Jelszavas védelem"
+
+msgid "back_fi_restore_general_error"
+msgstr "Visszaállítási hiba lépett fel"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Visszaállítás nem lehetséges.\n"
+"A biztonsági mentés fájl nem kompatibilis."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Kevés a memória az eszközön.\n"
+"Törölj néhány adatot, majd próbáld ismét."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Memóriakártya nem található.\n"
+"Helyezz be egy kártyát és próbáld újra."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"A memóriakártyát eltávolították a művelet alatt.\n"
+"Helyezd vissza a kártyát és próbáld újra."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Törölve"
+
+msgid "back_fi_select_oneoption"
+msgstr "Minimum egy opciót ki kell választanod"
+
+msgid "back_fi_settings"
+msgstr "Beállítások"
+
+msgid "back_fi_unknown_error"
+msgstr "Ismeretlen hiba"
+
+msgid "back_ia_dia002_name"
+msgstr "Biztonsági mentés"
+
+msgid "back_ib_password_incorrect"
+msgstr "Hibás jelszó"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "Válaszd ki a biztonsági mentéshez az adatokat"
+
+msgid "back_ti_dia002_title"
+msgstr "Új biztonsági mentés"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Visszaállítás nem teljes"
+
+msgid "back_ti_restore_filter"
+msgstr "Válaszd ki a visszaállítandó adatokat"
+
+msgid "back_ti_restore_query"
+msgstr "Verzió ütközés"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"Biztonsági mentés folyamatban\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Befejezés"
+
+msgid "back_va_initializing_restore"
+msgstr "Inicializálás"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"Helyreállítás\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
+
