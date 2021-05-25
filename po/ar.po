@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-04-21 22:51+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "back_ap_feature_name"
+msgstr "النسخ الأحتياطي"
+
+msgid "back_ap_feature_title"
+msgstr "النسخ الأحتياطي"
+
+msgid "back_bd_007_restore_button"
+msgstr "نعم"
+
+msgid "back_bd_backup"
+msgstr "نسخة أحتياطية جديدة"
+
+msgid "back_bd_delete"
+msgstr "حذف"
+
+msgid "back_bd_dia002_ok"
+msgstr "تنفيذ"
+
+msgid "back_bd_dia003_ok"
+msgstr "تحديد"
+
+msgid "back_bd_dia010_ok"
+msgstr "أنهاء"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "نعم"
+
+msgid "back_bd_overwrite"
+msgstr "نعم"
+
+msgid "back_bd_overwrite_all"
+msgstr "نعم للجميع"
+
+msgid "back_bd_rename"
+msgstr "إعادة تسمية"
+
+msgid "back_bd_restore"
+msgstr "أسترجاع"
+
+msgid "back_bd_skip"
+msgstr "لا"
+
+msgid "back_fi_application_list"
+msgstr "قائمة البرامج"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"مدير البرامج يطلب إعادة تحميل البرامج.\n"
+"بدأ مدير البرامج الآن ?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"إسترجاع %s?\n"
+"جميع البرامج سوف تغلق"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"إسترجاع '%s'?\n"
+"قبل إعادة تشغيل الجهاز سوف يتم أغلاق جميع البرامج بالأضافة إلى منع مكالمات الطوارئ."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "رقم النسخة الأحتياطية: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "حدث خطأ أثناء النسخ"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"غير قادر على النسخ.\n"
+"تحديث النسخة الأحتياطية غير متوافق مع الجهاز."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"لايوجد ذاكره كافية بكرت الذاكرة لأكمال النسخ.\n"
+"المساحة المتوفر: %s\n"
+"المساحة المطلوبة: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"كرت الذاكره غير متوفر.\n"
+"اعد أدخال كرت الذاكرة وأبدأ النسخ من جديد."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"كرت الذاكره أو الملف المحدد للقراءة فقط.\n"
+"أدخل بطاقة أخرى أو غير الملف."
+
+msgid "back_fi_bookmarks"
+msgstr "علامات الأنترنت"
+
+msgid "back_fi_communication_calendar"
+msgstr "الأتصالات والتقويم"
+
+msgid "back_fi_corrupt_backup"
+msgstr "النسخ الأحتياطي معطوب"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"حذف النسخة الأحتياطية?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "الأسماء:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"كرت الذاكرة غير متوفر.\n"
+"USB تم توصيل كيبل."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "لايوجد كرت ذاكره بداخل"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "النسخ الأحتياطي"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "أسم النسخة الأحتياطية"
+
+msgid "back_fi_dia002_location"
+msgstr "الموقع"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "بطاقة الذاكرة الخارجية"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"الجهاز يحتوي على ملف بنفس الأسم.\n"
+"إعادة تسمية المجلد لعدم فقدان البينات?"
+
+msgid "back_fi_dia009_text_3"
+msgstr "الجهاز يحمل ملف بنفس الأسم إعادة تسمية ملف النسخ الأحتياظي لمنع فقدان البينات?"
+
+msgid "back_fi_dia009a_text"
+msgstr "الجهاز يحتوى على أصدار أحدث من هذا الملف:"
+
+msgid "back_fi_dia009b_text"
+msgstr "أستبدال النسخة الحالية بنسخة أحتياطية أقدم?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s أسترجاع"
+
+msgid "back_fi_dia010_text"
+msgstr "إستعادة البينات لم يكتمل:"
+
+msgid "back_fi_general_error"
+msgstr "خطأ"
+
+msgid "back_fi_memory_full"
+msgstr "الذاكرة الهدف ممتلئة"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "أحدث أصدار: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(لايوجد نسخ أحتياطية متوفرة)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "لايوجد بينات لنسخها"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"تمت عملية النسخ.\n"
+"%s النسخ الأحتياطي."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"تم أسترجاع النسخة الأحتياطية.\n"
+"%s أسترجع."
+
+msgid "back_fi_not026_msg"
+msgstr "النسخة الأحتياطية القديم من %s في %s فقدت. أكمال?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"تم إلغاء عملية النسخ.\n"
+"%1$d of %2$d تم نسخ الملفات بنجاح."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"تم إلغاء عملية النسخ.\n"
+"%1$d of %2$d تم أسترجاع النسخة بنجاح."
+
+msgid "back_fi_other"
+msgstr "ملف آخر"
+
+msgid "back_fi_password_protect"
+msgstr "محمي بكلمة سر"
+
+msgid "back_fi_restore_general_error"
+msgstr "حصل خطأ أثناء الأسترجاع"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"غير قادر على الأسترجاع.\n"
+"النسخة الأحتياطية غير متوافة."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"لايوجد ذاكره كافية لتخزين على الجهاز.\n"
+"أمسح بعض الملفات اولاً."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"لم يتم العثور على كرت ذكرة.\n"
+"أدخل بطاقة الذاكره وأعد المحاولة."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"تم نزع بطاقة الذاكرة أثناء الأسترجاع.\n"
+"أعد أدخلها وحاول مره أخرى."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "تم الألغاء"
+
+msgid "back_fi_select_oneoption"
+msgstr "على الأقل يجب تحديد خيار واحد"
+
+msgid "back_fi_settings"
+msgstr "الأعدادات"
+
+msgid "back_fi_unknown_error"
+msgstr "خطأ غير معروف"
+
+msgid "back_ia_dia002_name"
+msgstr "نسخة أحتياطية"
+
+msgid "back_ib_password_incorrect"
+msgstr "باسورد خاطئ"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "أختر البيانات لنسخها"
+
+msgid "back_ti_dia002_title"
+msgstr "نسخة أحطياطية جديدة"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "الأسترجاع لم يكتمل"
+
+msgid "back_ti_restore_filter"
+msgstr "أختر البينات لأسترجاعها"
+
+msgid "back_ti_restore_query"
+msgstr "الأصدار متعارض"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"النسخ الأحتياطي\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "وضع اللمسات الأخيرة"
+
+msgid "back_va_initializing_restore"
+msgstr "جارى التهيئة"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"الأسترجاع\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
+
