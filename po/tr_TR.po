@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-backup 20091013120338\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.10 09:50+0300\n"
+"PO-Revision-Date: 2010-05-29 20:47+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "back_ap_feature_name"
+msgstr "Yedekleme"
+
+msgid "back_ap_feature_title"
+msgstr "Yedekleme"
+
+msgid "back_bd_007_restore_button"
+msgstr "Evet"
+
+msgid "back_bd_backup"
+msgstr "Yeni yedek"
+
+msgid "back_bd_delete"
+msgstr "Kaldır"
+
+msgid "back_bd_dia002_ok"
+msgstr "Devam et"
+
+msgid "back_bd_dia003_ok"
+msgstr "Seç"
+
+msgid "back_bd_dia010_ok"
+msgstr "Tamamla"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Evet"
+
+msgid "back_bd_overwrite"
+msgstr "Evet"
+
+msgid "back_bd_overwrite_all"
+msgstr "Tümüne evet"
+
+msgid "back_bd_rename"
+msgstr "Adlandır"
+
+msgid "back_bd_restore"
+msgstr "Geri yükle"
+
+msgid "back_bd_skip"
+msgstr "Hayır"
+
+msgid "back_fi_application_list"
+msgstr "Uygulama listesi"
+
+msgid "back_fi_application_list_found"
+msgstr ""
+"Uygulamaların yeniden yüklenmesi için Uygulama yöneticisi gerekir.\n"
+"Uygulama yöneticisi şimdi başlatılsın mı?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr ""
+"%s geri yüklenecek?\n"
+"Tüm uygulamalar kapatılacak"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr ""
+"Geri yükle '%s'?\n"
+"Sistem yeniden başlamadan önce tüm uygulamalar ve fonksiyonlar kapatılacak (acil aramalar dahil)."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Yedeklenmiş sürüm: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Yedekleme hatası oluştu"
+
+msgid "back_fi_backup_incompatible"
+msgstr ""
+"Yedeklenemiyor.\n"
+"Güncellenecek yedek cihazla uyumsuz."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr ""
+"Hafıza kartında yedeklemeyi tamamlayacak yeterli alan yok.\n"
+"Kullanılabilir hafıza: %s\n"
+"Gereken hafıza: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr ""
+"Hafıza kartı bulunamadı.\n"
+"Hafıza kartını tekrar takın ve tekrar başlayın."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr ""
+"Hafıza kartı veya hedef klasör salt-okunur.\n"
+"Başka bir kart takın veya klasörü değiştirin."
+
+msgid "back_fi_bookmarks"
+msgstr "Yer imleri"
+
+msgid "back_fi_calendar"
+msgstr "Takvim"
+
+msgid "back_fi_communication_calendar"
+msgstr "İletişimler ve Takvim"
+
+msgid "back_fi_contacts"
+msgstr "Kişiler"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Yedek bozuk"
+
+msgid "back_fi_delete_backup"
+msgstr ""
+"Yedeği sil?\n"
+"%s"
+
+msgid "back_fi_dia001_content"
+msgstr "İçerik:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr ""
+"Hafıza kartı uygun değil.\n"
+"USB kablosu bağlı."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Hafıza kartı takılmamış"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Yedekler"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Yedek adı"
+
+msgid "back_fi_dia002_location"
+msgstr "Konum"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Harici hafıza kartı"
+
+msgid "back_fi_dia009_text_2"
+msgstr ""
+"Cihaz benzer isimli bir klasör içeriyor.\n"
+"Veri kayıplarını önlemek için yedekteki klasörün adı değiştirilsin mi?"
+
+msgid "back_fi_dia009_text_3"
+msgstr ""
+"Cihaz benzer isimli bir dosya içeriyor. Veri kayıplarını önlemek için yedekteki dosyanın adı "
+"değiştirilsin mi?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Cihaz bu dosyanın daha yeni bir sürümünü içeriyor:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Bu dosya eski yedeğiyle değiştirilsin mi?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s geri yüklendi"
+
+msgid "back_fi_dia010_text"
+msgstr "Bu verilerin geri yüklenmesi tamamlanmadı:"
+
+msgid "back_fi_email"
+msgstr "E-posta"
+
+msgid "back_fi_general_error"
+msgstr "Hata"
+
+msgid "back_fi_memory_full"
+msgstr "Hedef bellek dolu"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "En yeni sürüm: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(mevcut yedek yok)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Yedeklenecek veri yok"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr ""
+"Yedekleme tamamlandı.\n"
+"%s yedeklendi."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr ""
+"Geri yükleme tamamlandı.\n"
+"%s geri yüklendi."
+
+msgid "back_fi_not026_msg"
+msgstr "Daha eski yedek %s  (%s deki) kaybedilecek. Devam et?"
+
+msgid "back_fi_not028_msg"
+msgstr ""
+"Yedekleme iptal edildi.\n"
+"%1$d / %2$d dosya başarıyla yedeklendi."
+
+msgid "back_fi_not029_msg"
+msgstr ""
+"Geri yükleme iptal edildi.\n"
+"%1$d / %2$d dosya başarıyla geri yüklendi."
+
+msgid "back_fi_other"
+msgstr "Diğer dosyalar"
+
+msgid "back_fi_password_protect"
+msgstr "Parolayla koru"
+
+msgid "back_fi_restore_general_error"
+msgstr "Geri yükleme hatası oluştu"
+
+msgid "back_fi_restore_incompatible"
+msgstr ""
+"Geri yüklenemiyor.\n"
+"Uyumsuz yedek."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr ""
+"Cihazda yeterli depo belleği yok.\n"
+"Bazı verileri silin ve tekrar deneyin."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr ""
+"Hafıza kartı algılanmadı.\n"
+"Bir kart takın ve yeniden deneyin."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr ""
+"İşlem sırasında hafıza kartı çıkarıldı.\n"
+"Kartı tekrar takın ve yeniden deneyin."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "İptal edildi"
+
+msgid "back_fi_select_oneoption"
+msgstr "En az 1 opsiyon mutlaka seçilmeli"
+
+msgid "back_fi_settings"
+msgstr "Ayarlar"
+
+msgid "back_fi_unknown_error"
+msgstr "Bilinmeyen hata"
+
+msgid "back_ia_dia002_name"
+msgstr "Yedek"
+
+msgid "back_ib_password_incorrect"
+msgstr "Geçersiz parola"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "Yedeklenecek veriyi seçin"
+
+msgid "back_ti_dia002_title"
+msgstr "Yeni yedek"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Geri yükleme tamamlanmadı"
+
+msgid "back_ti_restore_filter"
+msgstr "Geri yüklenecek veriyi seçin"
+
+msgid "back_ti_restore_query"
+msgstr "Sürüm çakışması"
+
+msgid "back_va_backed_up_category"
+msgstr ""
+"Yedekleniyor\n"
+"%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Tamamlanıyor"
+
+msgid "back_va_initializing_restore"
+msgstr "Hazırlanıyor"
+
+msgid "back_va_restoring_category"
+msgstr ""
+"Geri yükleniyor\n"
+"%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
