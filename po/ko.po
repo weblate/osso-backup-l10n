@@ -1,0 +1,261 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "back_ap_feature_name"
+msgstr "백업"
+
+msgid "back_ap_feature_title"
+msgstr "백업"
+
+msgid "back_bd_007_restore_button"
+msgstr "예"
+
+msgid "back_bd_backup"
+msgstr "새로운 백업"
+
+msgid "back_bd_delete"
+msgstr "삭제"
+
+msgid "back_bd_dia002_ok"
+msgstr "진행"
+
+msgid "back_bd_dia003_ok"
+msgstr "선택"
+
+msgid "back_bd_dia010_ok"
+msgstr "완료"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "예"
+
+msgid "back_bd_overwrite"
+msgstr "예"
+
+msgid "back_bd_overwrite_all"
+msgstr "모두 예"
+
+msgid "back_bd_rename"
+msgstr "이름 바꾸기"
+
+msgid "back_bd_restore"
+msgstr "복원"
+
+msgid "back_bd_skip"
+msgstr "아니오"
+
+msgid "back_fi_application_list"
+msgstr "어플리케이션 목록"
+
+msgid "back_fi_application_list_found"
+msgstr "어플리케이션을 다시 설치하기 위해서는 어플리케이션 관리자가 필요합니다.\n어플리케이션 관리자를 지금 시작하시겠습니까?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr "%s을 복원하시겠습니까?\n모든 어플리케이션이 종료됩니다."
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr "'%s'을 복원하시겠습니까?\n그전에 시스템이 재시작 될 것이며 모든 어플리케이션이 종료되는 동시에 긴급 통화를 포함하여 모든 기능이 비활성화 됩니다."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "백업 버전: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "백업 오류 발생함"
+
+msgid "back_fi_backup_incompatible"
+msgstr "백업을 할 수 없습니다.\n백업이 업데이트 되어 현재 장치와 호환되지 않습니다."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr "메모리 카드에 백업을 하기 위한 공간이 부족합니다.\n사용 가능한 메모리: %s\n필요한 메모리: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr "메모리 카드를 찾을 수 없습니다.\n메모리 카드를 재삽입하시고 다시 시작해주세요."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr "메모리 카드 혹은 해당 경로가 읽기 전용입니다.\n다른 메모리 카드를 삽입하시거나 경로를 변경해주시기 바랍니다."
+
+msgid "back_fi_bookmarks"
+msgstr "즐겨찾기"
+
+msgid "back_fi_communication_calendar"
+msgstr "대화 및 달력"
+
+msgid "back_fi_corrupt_backup"
+msgstr "백업이 비정상적입니다"
+
+msgid "back_fi_delete_backup"
+msgstr "백업을 삭제할까요?\n%s"
+
+msgid "back_fi_dia001_content"
+msgstr "컨텐츠:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr "USB 케이블이 연결되어 있어 메모리 카드를 사용할 수 없습니다."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "메모리 카드가 삽입되지 않았습니다"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "백업"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "백업 이름"
+
+msgid "back_fi_dia002_location"
+msgstr "위치"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "외부 메모리 카드"
+
+msgid "back_fi_dia009_text_2"
+msgstr "똑같은 이름의 폴더가 장치에 존재합니다.\n폴더 이름을 변경하여 데이터가 유실되는걸 방지 하시겠습니까?"
+
+msgid "back_fi_dia009_text_3"
+msgstr "똑같은 이름의 파일이 장치에 존재합니다. 파일 이름을 변경하여 데이터가 유실되는걸 방지 하시겠습니까?"
+
+msgid "back_fi_dia009a_text"
+msgstr "장치에 존재하는 파일이 이 파일보다 더 최신 버전임:"
+
+msgid "back_fi_dia009b_text"
+msgstr "최근 버전으로 옛 백업파일을 덮어 씌우시겠습니까?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s 이 복원됨"
+
+msgid "back_fi_dia010_text"
+msgstr "해당 자료들이 복원되지 않음:"
+
+msgid "back_fi_general_error"
+msgstr "오류"
+
+msgid "back_fi_memory_full"
+msgstr "해당 메모리가 가득 찼습니다."
+
+msgid "back_fi_newer_version_prompt"
+msgstr "가장 최근 버전: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(백업이 존재하지 않음)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "백업할 데이터가 없음"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr "백업이 완료되었습니다.\n%s 이 백업되었습니다."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr "복원이 완료되었습니다.\n%s 이 복원되었습니다."
+
+msgid "back_fi_not026_msg"
+msgstr "옛 백업인 %s %s 은 사리지게 될 것 입니다. 진행하시겠습니까?"
+
+msgid "back_fi_not028_msg"
+msgstr "백업이 중단되었습니다.\n총 %2$d 개의 파일 중 %1$d 개의 파일이 정상적으로 백업되었습니다"
+
+msgid "back_fi_not029_msg"
+msgstr "복원이 중단되었습니다.\n총 %2$d 개의 파일 중 %1$d 개의 파일이 정상적으로 복원되었습니다"
+
+msgid "back_fi_other"
+msgstr "기타 파일들"
+
+msgid "back_fi_password_protect"
+msgstr "비밀번호 보호"
+
+msgid "back_fi_restore_general_error"
+msgstr "복원 오류가 발생하였습니다"
+
+msgid "back_fi_restore_incompatible"
+msgstr "복원을 할 수 없습니다.\n백업이 불완전 합니다."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr "장치 저장소의 공간이 부족합니다.\n필요없는 자료를 삭제하여 재시도 하시기 바랍니다."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr "메모리 카드를 찾을 수 없습니다.\n다시 카드를 삽입하고 재시도 하시기 바랍니다."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr "작업 중 메모리 카드가 제거되었습니다.\n다시 카드를 삽입하고 재시도 하시기 바랍니다."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "취소됨"
+
+msgid "back_fi_select_oneoption"
+msgstr "최소한 1개의 옵션을 선택해야 합니다"
+
+msgid "back_fi_settings"
+msgstr "설정"
+
+msgid "back_fi_unknown_error"
+msgstr "알 수 없는 오류"
+
+msgid "back_ia_dia002_name"
+msgstr "백업"
+
+msgid "back_ib_password_incorrect"
+msgstr "잘못된 비밀번호"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "백업할 자료를 선택하시기 바랍니다"
+
+msgid "back_ti_dia002_title"
+msgstr "새로운 백업"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "복원이 정상적으로 완료되지 않았습니다"
+
+msgid "back_ti_restore_filter"
+msgstr "복원할 자료를 선택하시기 바랍니다"
+
+msgid "back_ti_restore_query"
+msgstr "버전 충돌"
+
+msgid "back_va_backed_up_category"
+msgstr "백업 중\n%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Finalizing"
+
+msgid "back_va_initializing_restore"
+msgstr "초기화 중"
+
+msgid "back_va_restoring_category"
+msgstr "복원 중\n%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
