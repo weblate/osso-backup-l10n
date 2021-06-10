@@ -1,0 +1,262 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2011-11-06 15:35+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "back_ap_feature_name"
+msgstr "فایل پشتیبان"
+
+msgid "back_ap_feature_title"
+msgstr "فایل پشتیبان"
+
+msgid "back_bd_007_restore_button"
+msgstr "بله"
+
+msgid "back_bd_backup"
+msgstr "فایل پشتیبان جدید"
+
+msgid "back_bd_delete"
+msgstr "حذف"
+
+msgid "back_bd_dia002_ok"
+msgstr "مرحله بعد"
+
+msgid "back_bd_dia003_ok"
+msgstr "انتخاب"
+
+msgid "back_bd_dia010_ok"
+msgstr "پایان"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "بله"
+
+msgid "back_bd_overwrite"
+msgstr "بله"
+
+msgid "back_bd_overwrite_all"
+msgstr "بله.برای همه"
+
+msgid "back_bd_rename"
+msgstr "تغییر نام"
+
+msgid "back_bd_restore"
+msgstr " بر گرداندن"
+
+msgid "back_bd_skip"
+msgstr "خیر"
+
+msgid "back_fi_application_list"
+msgstr "لیست برنامه ها"
+
+msgid "back_fi_application_list_found"
+msgstr "برای نصب دوباره‌ی برنامه‌ها به مدیر برنامه‌ها نیاز است.\n مدیر برنامه‌ها اجرا شود?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr "%s برگردانده شود؟\n تمام برنامه‌ها بسته خواهند شد"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr "%s برگردانده شود؟\nقبل از اینکه دستگاه خودش را ری‌استارت کند همه‌ی برنامه‌ها بسته خواهند شد و تمام امکانات گوشی غیر فعال میشود(حتی تماس‌های اضطراری)"
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "نسخه پشتیبان‌گیری شده: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "در پشتیبان‌گیری خطا رخ داده است"
+
+msgid "back_fi_backup_incompatible"
+msgstr "پشتیبان‌گیری امکان پذیر نیست..\nپشتیبان‌های بروز رسانی شده با دستگاه سازگار نیست."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr "حافظه‌ی کافی بر روی کارت حافظه ، برای پشتیبان‌گیری وجود ندارد.\nحافظه‌ی موجود: %s\nحافظه‌ی مورد نیاز: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr "کارت حافظه یافت نشد.\nکارت حافظه را دوباره وارد کرده و از نو شروع کنید."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr "کارت حافظه یا پوشه‌ی مقصد فقط خواندنی است و امکان ذخیره کردن وجود ندارد.\nکارت حافظه‌ی دیگری را وارد کنید یا پوشه را تغییر دهید."
+
+msgid "back_fi_bookmarks"
+msgstr "بوک‌مارک‌ها"
+
+msgid "back_fi_communication_calendar"
+msgstr "ارتباطات و تقویم"
+
+msgid "back_fi_corrupt_backup"
+msgstr " فایل پشتیبان خراب است."
+
+msgid "back_fi_delete_backup"
+msgstr "حذف فایل پشتیبان?\n%s"
+
+msgid "back_fi_dia001_content"
+msgstr ":محتویات"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr "کارت حافظه در دسترس نیست.\nکابل یو‌اس‌بی متصل شد."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "کارت حافظه وارد نشده است."
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "پشتیبان‌ها"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "نام فایل پشتیبان"
+
+msgid "back_fi_dia002_location"
+msgstr "موقعیت"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "کارت حافظه‌ی خارجی"
+
+msgid "back_fi_dia009_text_2"
+msgstr "دستگاه شامل پوشه ای با این نام است.\nآیا برای جلوگیری از ، از دست دادن اطلاعات ، نام پوشه را از فایل پشتیبان تغییر می دهید؟"
+
+msgid "back_fi_dia009_text_3"
+msgstr "دستگاه شامل یک فایل با  همین نام است\nآیا برای جلوگیری از ، از دست دادن اطلاعات ، نام پوشه را از فایل پشتیبان تغییر می دهید؟"
+
+msgid "back_fi_dia009a_text"
+msgstr "دستگاه شامل نسخه‌ی جدیدتری از این فایل است:"
+
+msgid "back_fi_dia009b_text"
+msgstr " آیا فایل پشتیبان جدید جایگزین فایل پشتیبان قدیمی‌تر شود؟"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s بازگردانده شد"
+
+msgid "back_fi_dia010_text"
+msgstr "بازگرداندن اطلاعات زیر ناقص انجام شد:"
+
+msgid "back_fi_general_error"
+msgstr "خطا"
+
+msgid "back_fi_memory_full"
+msgstr "حافظه‌ی مقصد پر است."
+
+msgid "back_fi_newer_version_prompt"
+msgstr "جدیدترین نسخه :%s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(فایل پشتیبانی وجود ندارد)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "اطلاعاتی برای پشتیبان‌گیری وجود ندارد."
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr "پشتیبان‌گیری با موفقیت تمام شد..\n%s .فایل پشتیبان گرفته شد"
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr "بازگردانی با موفقیت انجام شد.\n%s  اطلاعات بازگردانده شد."
+
+msgid "back_fi_not026_msg"
+msgstr " فایل پشتیبان قدیمی از %s در %s از دست خواهد رفت.ادامه می‌‍دهید؟"
+
+msgid "back_fi_not028_msg"
+msgstr "پشتیبان‌گیری لغو شد.\n%1$d از %2$d با موفقیت پشتیبان تهیه شد فایل‌ها."
+
+msgid "back_fi_not029_msg"
+msgstr "بازگردانی لغو شد.\n%1$d از %2$d فایل‌ها با موفقیت بازگردانده شدند."
+
+msgid "back_fi_other"
+msgstr "فایل‌های دیگر"
+
+msgid "back_fi_password_protect"
+msgstr "محافظت با کلمه عبور"
+
+msgid "back_fi_restore_general_error"
+msgstr "در بازگرداندن خطایی رخ داد."
+
+msgid "back_fi_restore_incompatible"
+msgstr "بازگرداندن امکان پذیر نیست..\nاین نسخه‌ی پشتیبان ناسازگار است."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr "حافظه‌ی ذخیره سازی به مقدار کافی روی دستگاه وجود ندارد.\nمقداری از اطلاعات را حذف و دوباره سعی کنید.."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr "کارت حافظه‌ای یافت نشد.\n.کارت حافظه را وارد و دوباره سعی کنید"
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr "کارت حافظه در حین عملیات خارج شد.\nکارت را مجدد وارد کنید و دوباره سعی کنید."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "انصراف داده شد"
+
+msgid "back_fi_select_oneoption"
+msgstr "حداقل 1 گزینه باید انتخاب شود"
+
+msgid "back_fi_settings"
+msgstr "تنظیمات"
+
+msgid "back_fi_unknown_error"
+msgstr "خطای ناشناخته."
+
+msgid "back_ia_dia002_name"
+msgstr "فایل پشتیبان"
+
+msgid "back_ib_password_incorrect"
+msgstr "کلمه‌ی عبور نادرست است."
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f مگابایت"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.1f مگابایت"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f گیگابایت"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d کیلوبایت"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f مگابایت"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d مگابایت"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f گیگابایت"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d کیلوبایت"
+
+msgid "back_ti_backup_filter"
+msgstr "داده‌ها را برای پشتیبان‌گیری انتخاب نمائید"
+
+msgid "back_ti_dia002_title"
+msgstr "فایل پشتیبان جدید"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "عملیات بازگرداندن ناقص انجام شد"
+
+msgid "back_ti_restore_filter"
+msgstr "داده را برای بازگرداندن انتخاب نمائید."
+
+msgid "back_ti_restore_query"
+msgstr "ناسازگاری نسخه‌ی فایل پشتیبان"
+
+msgid "back_va_backed_up_category"
+msgstr "در حال پشتیبان‌گیری\n%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "مرحله‌ی نهایی"
+
+msgid "back_va_initializing_restore"
+msgstr "راه اندازی"
+
+msgid "back_va_restoring_category"
+msgstr "در حال بازگرداندن\n%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
