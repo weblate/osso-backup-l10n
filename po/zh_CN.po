@@ -1,0 +1,261 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "back_ap_feature_name"
+msgstr "备份"
+
+msgid "back_ap_feature_title"
+msgstr "备份"
+
+msgid "back_bd_007_restore_button"
+msgstr "确定"
+
+msgid "back_bd_backup"
+msgstr "创建新备份"
+
+msgid "back_bd_delete"
+msgstr "删除"
+
+msgid "back_bd_dia002_ok"
+msgstr "确定"
+
+msgid "back_bd_dia003_ok"
+msgstr "确定"
+
+msgid "back_bd_dia010_ok"
+msgstr "确定"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "确定"
+
+msgid "back_bd_overwrite"
+msgstr "是"
+
+msgid "back_bd_overwrite_all"
+msgstr "全部是"
+
+msgid "back_bd_rename"
+msgstr "重命名"
+
+msgid "back_bd_restore"
+msgstr "还原"
+
+msgid "back_bd_skip"
+msgstr "否"
+
+msgid "back_fi_application_list"
+msgstr "程序列表"
+
+msgid "back_fi_application_list_found"
+msgstr "程序管理器需要重新安装程序.\n立即启动程序管理器?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr "还原全部程序将被关闭."
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr "还原需要重启."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "已备份的版本: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "备份出错"
+
+msgid "back_fi_backup_incompatible"
+msgstr "无法备份.\n备份程序与设备不兼容"
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr "存储卡中没有足够的可用空间.\n可用空间:%s \n 需要的空间:%s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr "存储卡未找到.\n重新插入存储卡后再试."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr "存储卡或目标文件夹只读.\n请插入另一张存储卡或更改文件夹."
+
+msgid "back_fi_bookmarks"
+msgstr "书签"
+
+msgid "back_fi_communication_calendar"
+msgstr "通讯和日历项"
+
+msgid "back_fi_corrupt_backup"
+msgstr "备份已损坏"
+
+msgid "back_fi_delete_backup"
+msgstr "删除备份?\n%s"
+
+msgid "back_fi_dia001_content"
+msgstr "内容:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr "存储卡不可用.\nUSB"
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "没有插入存储卡"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "存储卡中的备份:"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "备份名称"
+
+msgid "back_fi_dia002_location"
+msgstr "位置"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "外置存储卡"
+
+msgid "back_fi_dia009_text_2"
+msgstr "设备中存在一个相同名称的文件夹.\n在备份中为这个文件夹重命名以防止数据丢失?"
+
+msgid "back_fi_dia009_text_3"
+msgstr "设备中存在一个相同名称的文件. 在备份中为这个文件重命名以防止数据丢失?"
+
+msgid "back_fi_dia009a_text"
+msgstr "设备包含此文件的更新版本:"
+
+msgid "back_fi_dia009b_text"
+msgstr "使用旧的备份覆盖较新的备份?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s 已还原"
+
+msgid "back_fi_dia010_text"
+msgstr "下列数据未还原:"
+
+msgid "back_fi_general_error"
+msgstr "错误"
+
+msgid "back_fi_memory_full"
+msgstr "目标空间已满"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "最新版本: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(没有备份)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "没有需要备份的数据"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr "备份完成.\n%s"
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr "还原完成.\n%s"
+
+msgid "back_fi_not026_msg"
+msgstr "'覆盖创建时间为%s备份,数据将被覆盖."
+
+msgid "back_fi_not028_msg"
+msgstr "备份已取消.\n已备份"
+
+msgid "back_fi_not029_msg"
+msgstr "还原已取消.\n已还原"
+
+msgid "back_fi_other"
+msgstr "其他文件"
+
+msgid "back_fi_password_protect"
+msgstr "密码保护　"
+
+msgid "back_fi_restore_general_error"
+msgstr "还原出错"
+
+msgid "back_fi_restore_incompatible"
+msgstr "无法还原.\n备份不兼容."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr "没有足够的空间.\n请删除一些数据后再试."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr "没有找到存储卡.\n请插入存储卡后再试."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr "请不要在操作中取出存储卡.\n重新插入存储卡后再试."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "已取消"
+
+msgid "back_fi_select_oneoption"
+msgstr "至少要选择一个项目"
+
+msgid "back_fi_settings"
+msgstr "设置"
+
+msgid "back_fi_unknown_error"
+msgstr "未知错误"
+
+msgid "back_ia_dia002_name"
+msgstr "备份"
+
+msgid "back_ib_password_incorrect"
+msgstr "密码错误"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "选择需要备份的数据"
+
+msgid "back_ti_dia002_title"
+msgstr "创建备份"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "还原未完成"
+
+msgid "back_ti_restore_filter"
+msgstr "选择需要还原的数据"
+
+msgid "back_ti_restore_query"
+msgstr "版本冲突"
+
+msgid "back_va_backed_up_category"
+msgstr "正在备份: %s"
+
+msgid "back_va_finalizing_restore"
+msgstr "将要完成"
+
+msgid "back_va_initializing_restore"
+msgstr "正在初始化"
+
+msgid "back_va_restoring_category"
+msgstr "正在还原:\n%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
