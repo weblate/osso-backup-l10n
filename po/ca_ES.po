@@ -1,0 +1,261 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "back_ap_feature_name"
+msgstr "Backup"
+
+msgid "back_ap_feature_title"
+msgstr "Còpia de seguretat"
+
+msgid "back_bd_007_restore_button"
+msgstr "Si"
+
+msgid "back_bd_backup"
+msgstr "Nova còpia"
+
+msgid "back_bd_delete"
+msgstr "Esborrar"
+
+msgid "back_bd_dia002_ok"
+msgstr "Procedir"
+
+msgid "back_bd_dia003_ok"
+msgstr "Seleccionar"
+
+msgid "back_bd_dia010_ok"
+msgstr "Finalitzar"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Si"
+
+msgid "back_bd_overwrite"
+msgstr "Si"
+
+msgid "back_bd_overwrite_all"
+msgstr "Si a tot"
+
+msgid "back_bd_rename"
+msgstr "Reanomenar"
+
+msgid "back_bd_restore"
+msgstr "Recuperar"
+
+msgid "back_bd_skip"
+msgstr "No"
+
+msgid "back_fi_application_list"
+msgstr "Llista de programes"
+
+msgid "back_fi_application_list_found"
+msgstr "Cal el gestor d'aplicacions per a re-instal·lar programes.\nIniciar-lo ara?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr "Recuperar %s?\nEs tancaran totes les aplicacions"
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr "Recuperar '%s'?\nAbans de que el sisteme es reiniciï, es tancaran les aplicacions i es deshabilitaran les funcions (no es podran fer trucades)"
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Versió copiada: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Ha succeït un error en la còpia"
+
+msgid "back_fi_backup_incompatible"
+msgstr "No es pot fer la còpia.\nLa còpia a actualitzar no és compatible amb el teu dispositiu."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr "No hi ha prou memòria a la targeta per a completar la còpia.\nMemòria disponible: %s\nMemòria requerida: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr "Targeta de memòria no trobada.\nReinsertar targeta de memòria i provar-ho de nou."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr "La destinació està en mode de només lectura.\nInsertar una targeta de memòria diferent o canviar el directori de destí."
+
+msgid "back_fi_bookmarks"
+msgstr "Marcadors"
+
+msgid "back_fi_communication_calendar"
+msgstr "Comunicacions i calendari"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Còpia corrupta"
+
+msgid "back_fi_delete_backup"
+msgstr "Esborra còpia?\n%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Contingut:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr "Targeta de memòria no disponible.\nCable USB connectat."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "No s'ha trobat targeta de memòria"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Còpies de seguretat"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Nom de la còpia"
+
+msgid "back_fi_dia002_location"
+msgstr "Localització"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Targeta de memòria externa"
+
+msgid "back_fi_dia009_text_2"
+msgstr "El dispositiu conté un directori amb el mateix nom.\nReanomenar el directori de la còpia per a evitar pérdua de dades?"
+
+msgid "back_fi_dia009_text_3"
+msgstr "El dispositiu conté un fitxer amb el mateix nom. Reanomenar el directori de la còpia per a evitar pérdua de dades?"
+
+msgid "back_fi_dia009a_text"
+msgstr "El dispositiu conté una versió més recent d'aquest fitxer:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Substituïr la versió recent amb el fitxer de còpia anterior?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s recuperat"
+
+msgid "back_fi_dia010_text"
+msgstr "La recuperació ha estat incompleta. Han fallat els següents objectes:"
+
+msgid "back_fi_general_error"
+msgstr "Error"
+
+msgid "back_fi_memory_full"
+msgstr "Target memory full"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Versió més recent: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(no hi ha còpies disponibles)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "No hi ha dades a copiar"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr "Còpia completada.\n%s s'ha copiat."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr "Recuperació completada.\n%s recuperat."
+
+msgid "back_fi_not026_msg"
+msgstr "Es perdrà la còpia antiga del %s a les %s. Continuar?"
+
+msgid "back_fi_not028_msg"
+msgstr "S'ha cancel·lat la còpia.\nS'han copiat correctament %1$d de %2$d fitxers."
+
+msgid "back_fi_not029_msg"
+msgstr "S'ha cancel·lat la recuperació.\nS'han recuperat %1$d de %2$d fitxers."
+
+msgid "back_fi_other"
+msgstr "Altres fitxers"
+
+msgid "back_fi_password_protect"
+msgstr "Protegir amb contrasenya"
+
+msgid "back_fi_restore_general_error"
+msgstr "S'ha produït un error recuperant"
+
+msgid "back_fi_restore_incompatible"
+msgstr "No s'ha pogut recuperar.\nCòpia incompatible."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr "No hi ha prou memòria al dispositiu.\nEsborrar dades i intentar-ho de nou."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr "No hi ha targeta de memòria.\nIntroduïr targeta de memòria i intentar-ho de nou."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr "S'ha tret la targeta de memòria durant l'operació.\nReintroduïr targeta de memòria i intentar-ho de nou"
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Cancel·lat"
+
+msgid "back_fi_select_oneoption"
+msgstr "Cal triar com a mínim 1 opció"
+
+msgid "back_fi_settings"
+msgstr "Preferències"
+
+msgid "back_fi_unknown_error"
+msgstr "Error desconegut"
+
+msgid "back_ia_dia002_name"
+msgstr "Còpia de seguretat"
+
+msgid "back_ib_password_incorrect"
+msgstr "Contrasenya incorrecta"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "Triar dades a copiar"
+
+msgid "back_ti_dia002_title"
+msgstr "Nova còpia"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Recuperació no completada"
+
+msgid "back_ti_restore_filter"
+msgstr "Triar dades a recuperar"
+
+msgid "back_ti_restore_query"
+msgstr "Conflicte de versions"
+
+msgid "back_va_backed_up_category"
+msgstr "Copiant\n%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Finalitzant"
+
+msgid "back_va_initializing_restore"
+msgstr "Inicialitzant"
+
+msgid "back_va_restoring_category"
+msgstr "Recuperant\n%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
