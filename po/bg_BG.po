@@ -1,0 +1,261 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "back_ap_feature_name"
+msgstr "Резервни\nкопия"
+
+msgid "back_ap_feature_title"
+msgstr "Резервни копия"
+
+msgid "back_bd_007_restore_button"
+msgstr "Да"
+
+msgid "back_bd_backup"
+msgstr "Ново резервно копие"
+
+msgid "back_bd_delete"
+msgstr "Изтриване"
+
+msgid "back_bd_dia002_ok"
+msgstr "Напред"
+
+msgid "back_bd_dia003_ok"
+msgstr "Избор"
+
+msgid "back_bd_dia010_ok"
+msgstr "Край"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Да"
+
+msgid "back_bd_overwrite"
+msgstr "Да"
+
+msgid "back_bd_overwrite_all"
+msgstr "Да за всичко"
+
+msgid "back_bd_rename"
+msgstr "Преименуване"
+
+msgid "back_bd_restore"
+msgstr "Възстановяване"
+
+msgid "back_bd_skip"
+msgstr "Не"
+
+msgid "back_fi_application_list"
+msgstr "Списък с приложения"
+
+msgid "back_fi_application_list_found"
+msgstr "Управлението на приложения е необходимо за тяхното преинсталиране.\nЖелаете ли да го стартирате сега?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr "Желаете ли да възстановите %s?\nВсички приложения ще бъдат затворени."
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr "Желаете ли да възстановите %s?\nПреди системата да се рестартира сама всички приложения ще бъдат затворени и всички функции ще бъдат забранени, дори и спешните обаждания."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Версия на копието: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Възникнала е грешка при архивирането"
+
+msgid "back_fi_backup_incompatible"
+msgstr "Не може да се направи резервно копие.\nКопието за обновяване не е съвместимо с устройството."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr "Няма достатъчно място на картата-памет.\nНалична памет: %s\nНеобходима памет: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr "Картата-памет не е открита.\nВкарайте я отново и пробвайте пак."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr "Картата-памет или целевата папка е само за четене.\nВкарайте друга карта или променете папката."
+
+msgid "back_fi_bookmarks"
+msgstr "Отметки"
+
+msgid "back_fi_communication_calendar"
+msgstr "Комуникация и Календар"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Резервното копие е повредено"
+
+msgid "back_fi_delete_backup"
+msgstr "Желаете ли да изтриете копието?\n%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Съдържание:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr "Картата-памет не е налична.\nСвързан е USB кабел."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Няма вкарана карта-памет."
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Резервни копия"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Име"
+
+msgid "back_fi_dia002_location"
+msgstr "Местоположение"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Външна карта-памет"
+
+msgid "back_fi_dia009_text_2"
+msgstr "Устройството съдържа папка със същото име.\nЖелаете ли да преименувате папката от резервното копие за да избегнете загубата на данни?"
+
+msgid "back_fi_dia009_text_3"
+msgstr "Устройството съдържа файл със същото име.\nЖелаете ли да преименувате файла от резервното копие за да избегнете загубата на данни?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Устройството съдържа по-нова версия на файла:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Желаете ли да замените файла с по-старата версия?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s бяха възстановени"
+
+msgid "back_fi_dia010_text"
+msgstr "Непълно възстановяване на следните данни:"
+
+msgid "back_fi_general_error"
+msgstr "Грешка"
+
+msgid "back_fi_memory_full"
+msgstr "Целевата памет е пълна"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Най-новата версия: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(няма налични резервни копия)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Няма данни за архивиране"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr "Създаването на резервно копие завърши.\n%s бяха архивирани."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr "Възстановяването завърши.\n%s бяха възстановени."
+
+msgid "back_fi_not026_msg"
+msgstr "По-старо копие от %s на %s ще бъде загубено. Желаете ли да продължите?"
+
+msgid "back_fi_not028_msg"
+msgstr "Създаването на резервно копие бе прекъснато.\n%1$d от %2$d файла бяха архивирани успешно."
+
+msgid "back_fi_not029_msg"
+msgstr "Възстановяването бе прекъснато.\n%1$d от %2$d файла бяха възстановени успешно."
+
+msgid "back_fi_other"
+msgstr "Други файлове"
+
+msgid "back_fi_password_protect"
+msgstr "Защита с парола"
+
+msgid "back_fi_restore_general_error"
+msgstr "Възникнала е грешка при възстановяването"
+
+msgid "back_fi_restore_incompatible"
+msgstr "Не може да се възстанови.\nНепълно резервно копие."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr "Няма достатъчно място на устройството.\nПърво освободете и опитайте отново."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr "Не е открита карта-памет.\nВкарайте карта и опитайте отново."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr "Картата-памет бе извадена по време на  операцията.\nВкарайте я отново и опитайте пак."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Прекъснато"
+
+msgid "back_fi_select_oneoption"
+msgstr "Трябва да бъде избрана поне една възможност"
+
+msgid "back_fi_settings"
+msgstr "Настройки"
+
+msgid "back_fi_unknown_error"
+msgstr "Неизвестна грешка"
+
+msgid "back_ia_dia002_name"
+msgstr "Резервно копие"
+
+msgid "back_ib_password_incorrect"
+msgstr "Невярна парола"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "Изберете данни за архивиране"
+
+msgid "back_ti_dia002_title"
+msgstr "Ново резервно копие"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Възстановяването е непълно"
+
+msgid "back_ti_restore_filter"
+msgstr "Изберете данни за възстановяване"
+
+msgid "back_ti_restore_query"
+msgstr "Конфликт на версиите"
+
+msgid "back_va_backed_up_category"
+msgstr "Архивиране на\n%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Приключване"
+
+msgid "back_va_initializing_restore"
+msgstr "Стартиране"
+
+msgid "back_va_restoring_category"
+msgstr "Възстановяване на\n%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
