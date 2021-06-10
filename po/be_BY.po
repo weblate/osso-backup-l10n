@@ -1,0 +1,261 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2012-05-25 20:16+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "back_ap_feature_name"
+msgstr "Рэзервовая копія"
+
+msgid "back_ap_feature_title"
+msgstr "Рэзервовая копія"
+
+msgid "back_bd_007_restore_button"
+msgstr "Так"
+
+msgid "back_bd_backup"
+msgstr "Новая рэзервовая копія"
+
+msgid "back_bd_delete"
+msgstr "Выдаліць"
+
+msgid "back_bd_dia002_ok"
+msgstr "Працягнуць"
+
+msgid "back_bd_dia003_ok"
+msgstr "Абраць"
+
+msgid "back_bd_dia010_ok"
+msgstr "Закончыць"
+
+msgid "back_bd_dia026_continue_button"
+msgstr "Так"
+
+msgid "back_bd_overwrite"
+msgstr "Так"
+
+msgid "back_bd_overwrite_all"
+msgstr "Так для ўсіх"
+
+msgid "back_bd_rename"
+msgstr "Перайменаваць"
+
+msgid "back_bd_restore"
+msgstr "Узнавіць"
+
+msgid "back_bd_skip"
+msgstr "Не"
+
+msgid "back_fi_application_list"
+msgstr "Спіс прыкладанняў"
+
+msgid "back_fi_application_list_found"
+msgstr "Дыспетчару прыкладанняў патрабуецца паўторная ўсталёўка прыкладанняў.\nЗапусціць Дыспетчар прыкладанняў цяпер?"
+
+msgid "back_fi_are_you_sure_applications_will_close"
+msgstr "Узнавіць %s?\nУсе прыкладанні будуць зачыненыя."
+
+msgid "back_fi_are_you_sure_you_would_like"
+msgstr "Узнавіць '%s'?\nДа перазагрузкі сістэмы ўсё прыкладанні будуць зачыненыя, а ўсе функцыі будуць адключаныя, нават экстраныя выклікі."
+
+msgid "back_fi_backed_up_version_prompt"
+msgstr "Версія копіі: %s"
+
+msgid "back_fi_backup_general_error"
+msgstr "Памылка рэзервовага капіравання"
+
+msgid "back_fi_backup_incompatible"
+msgstr "Немагчыма стварыць рэзервовую копію.\nРэзервовая копія несумяшчальна з дэвайсам."
+
+msgid "back_fi_backup_memory_card_insufficient_space"
+msgstr "Не хапае памяці на карце памяці для завяршэння стварэння рэзервовай копіі.\nДаступная памяць: %s\nПатрэбная памяць: %s"
+
+msgid "back_fi_backup_memory_card_not_found"
+msgstr "Карта памяці не знойдзена.\nПастаўце карту памяці зноў і пачніце спачатку."
+
+msgid "back_fi_backup_memory_card_protected"
+msgstr "Карта памяці або тэчна назначэння толькі для чытання.\nУстаўце іншую карту ці змяніце тэчку."
+
+msgid "back_fi_bookmarks"
+msgstr "Закладкі"
+
+msgid "back_fi_communication_calendar"
+msgstr "Сувязь і каляндар"
+
+msgid "back_fi_corrupt_backup"
+msgstr "Рэзервовае капіраванне пашкоджана"
+
+msgid "back_fi_delete_backup"
+msgstr "Выдаліць рэзервовую копію?\n%s"
+
+msgid "back_fi_dia001_content"
+msgstr "Змест:"
+
+msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
+msgstr "Карта памяці недаступная.\nПадключаны USB кабель."
+
+msgid "back_fi_dia001_no_memory_card_present"
+msgstr "Карта памяці не ўстаўлена"
+
+msgid "back_fi_dia001_this_backup_was_taken_on"
+msgstr "Рэзервовыя копіі"
+
+msgid "back_fi_dia002_bkp_name"
+msgstr "Назва рэзервовай копіі"
+
+msgid "back_fi_dia002_location"
+msgstr "Знаходжанне"
+
+msgid "back_fi_dia002_memorycard_external"
+msgstr "Знешняя карта памяці"
+
+msgid "back_fi_dia009_text_2"
+msgstr "Дэвайс змяшчае тэчкі з адной назвай.\nПерайменаваць тэчку з рэзервовай копіі, каб прадухіліць страту дадзеных?"
+
+msgid "back_fi_dia009_text_3"
+msgstr "Дэвайс змяшчае файл з такім жа імем. Перайменаваць файл рэзервовай копіі, каб прадухіліць страту дадзеных?"
+
+msgid "back_fi_dia009a_text"
+msgstr "Дэвайс змяшчае найбольш нядаўнія версіі гэтага файла:"
+
+msgid "back_fi_dia009b_text"
+msgstr "Замяніць нядаўнюю версію старым файлам рэзервовай копіі?"
+
+msgid "back_fi_dia010_data_restored"
+msgstr "%s узноўлены"
+
+msgid "back_fi_dia010_text"
+msgstr "Стварэнне рэзервовай копіі наступных дадзеных не завршана:"
+
+msgid "back_fi_general_error"
+msgstr "Памылка"
+
+msgid "back_fi_memory_full"
+msgstr "Мэтавая памяць запоўненая"
+
+msgid "back_fi_newer_version_prompt"
+msgstr "Найбольш нядаўняя версія: %s"
+
+msgid "back_fi_no_backups_present"
+msgstr "(няма дасупных рэзервовых копій)"
+
+msgid "back_fi_nodata_tobackup"
+msgstr "Няма дадзеных для рэзервовай копіі"
+
+msgid "back_fi_not011_backup_successfully_completed"
+msgstr "Стварэнне рэзервовай копіі завершана.\n%s рэзервовая копія створана."
+
+msgid "back_fi_not013_restore_successfully_completed"
+msgstr "Узнаўленне завершана.\n%s узноўлены."
+
+msgid "back_fi_not026_msg"
+msgstr "Старэйшая рэзервовая копія ад %s на %s будзе страчаная. Працягнуць?"
+
+msgid "back_fi_not028_msg"
+msgstr "Стварэнне новай рэзервовай копіі скасавана.\n%1$d з %2$d файлаў былі паспяхова скапіраваныя."
+
+msgid "back_fi_not029_msg"
+msgstr "Узнаўленне скасаванае.\n%1$d з %2$d файлаў паспяхова ўзноўленыя."
+
+msgid "back_fi_other"
+msgstr "Іншыя файлы"
+
+msgid "back_fi_password_protect"
+msgstr "Абарона паролем"
+
+msgid "back_fi_restore_general_error"
+msgstr "Памылка пры ўзнаўленні"
+
+msgid "back_fi_restore_incompatible"
+msgstr "Немагчыма ўзнавіць.\nНесумяшчальны файл рэзервовай копіі."
+
+msgid "back_fi_restore_insufficient_space"
+msgstr "Не хапае месца на дэвайсе.\nВыдаліце некаторыя дадзеныя і паспрабуйце зноў."
+
+msgid "back_fi_restore_memory_card_not_found"
+msgstr "Не знойдзена карта памяці.\nУстаўце карту і паспрабуйце зноў."
+
+msgid "back_fi_restore_memory_card_removed"
+msgstr "Карта памяці была вынята падчас аперацыі.\nУстаўце карту зноў і паспрабуйце яшчэ раз."
+
+msgid "back_fi_restoring_cancelled"
+msgstr "Скасавана"
+
+msgid "back_fi_select_oneoption"
+msgstr "Па крайняй меры 1 опцыя мусіць быць выбрана."
+
+msgid "back_fi_settings"
+msgstr "Налады"
+
+msgid "back_fi_unknown_error"
+msgstr "Невядомая памылка"
+
+msgid "back_ia_dia002_name"
+msgstr "Рэзервовая копія"
+
+msgid "back_ib_password_incorrect"
+msgstr "Няправільны пароль"
+
+msgid "back_li_de_size_10mb_1gb"
+msgstr "%.1f MB"
+
+msgid "back_li_de_size_1mb_10mb"
+msgstr "%.2f MB"
+
+msgid "back_li_de_size_larger_than_1gb"
+msgstr "%.2f GB"
+
+msgid "back_li_de_size_max_999kb"
+msgstr "%d kB"
+
+msgid "back_li_size_100kb_10mb"
+msgstr "%.1f MB"
+
+msgid "back_li_size_10mb_1gb"
+msgstr "%3d MB"
+
+msgid "back_li_size_larger_than_1gb"
+msgstr "%.1f GB"
+
+msgid "back_li_size_max_99kb"
+msgstr "%d kB"
+
+msgid "back_ti_backup_filter"
+msgstr "Абярыце дадзеныя для рэзервовай копіі"
+
+msgid "back_ti_dia002_title"
+msgstr "Новая рэзервовая копія"
+
+msgid "back_ti_dia010_restore_incomplete"
+msgstr "Узнаўленне не завершанае"
+
+msgid "back_ti_restore_filter"
+msgstr "Абярыце дадзеныя для ўзнаўлення"
+
+msgid "back_ti_restore_query"
+msgstr "Канфлікт версій"
+
+msgid "back_va_backed_up_category"
+msgstr "Стварэнне рэзервовай копіі.\n%s"
+
+msgid "back_va_finalizing_restore"
+msgstr "Заканчэнне"
+
+msgid "back_va_initializing_restore"
+msgstr "Ініцыялізацыя"
+
+msgid "back_va_restoring_category"
+msgstr "Узнаўленне\n%s"
+
+msgid "calc_va_percentage"
+msgstr "%d%%"
