@@ -3,257 +3,303 @@ msgstr ""
 "Project-Id-Version: osso-backup 20091013120338\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.10.13 12:03+0300\n"
-"PO-Revision-Date: 2009.10.13 12:03+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 18:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-backup-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "back_ap_feature_name"
-msgstr ""
+msgstr "காப்புப்பிரதி"
 
 msgid "back_ap_feature_title"
-msgstr ""
+msgstr "காப்புப்பிரதி"
 
 msgid "back_bd_007_restore_button"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "back_bd_backup"
-msgstr ""
+msgstr "புதிய காப்புப்பிரதி"
 
 msgid "back_bd_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "back_bd_dia002_ok"
-msgstr ""
+msgstr "தொடரவும்"
 
 msgid "back_bd_dia003_ok"
-msgstr ""
+msgstr "தேர்ந்தெடு"
 
 msgid "back_bd_dia010_ok"
-msgstr ""
+msgstr "முடிக்க"
 
 msgid "back_bd_dia026_continue_button"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "back_bd_overwrite"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "back_bd_overwrite_all"
-msgstr ""
+msgstr "அனைவருக்கும் ஆம்"
 
 msgid "back_bd_rename"
-msgstr ""
+msgstr "மறுபெயரிடுங்கள்"
 
 msgid "back_bd_restore"
-msgstr ""
+msgstr "மீட்டமை"
 
 msgid "back_bd_skip"
-msgstr ""
+msgstr "இல்லை"
 
 msgid "back_fi_application_list"
-msgstr ""
+msgstr "பயன்பாட்டு பட்டியல்"
 
 msgid "back_fi_application_list_found"
 msgstr ""
+"விண்ணப்பங்களை மீண்டும் நிறுவ விண்ணப்ப மேலாளர் தேவை.\n"
+" இப்போது பயன்பாட்டு மேலாளரைத் தொடங்கவா?"
 
 msgid "back_fi_are_you_sure_applications_will_close"
 msgstr ""
+"%s ஐ மீட்டமைக்கவா?\n"
+" அனைத்து விண்ணப்பங்களும் மூடப்படும்"
 
 msgid "back_fi_are_you_sure_you_would_like"
 msgstr ""
+"'%s' ஐ மீட்டமைக்கவா?\n"
+" கணினி தன்னை மறுதொடக்கம் செய்வதற்கு முன்பு அனைத்து பயன்பாடுகளும் மூடப்படும், செயல்பாடுகள் "
+"முடக்கப்பட்டன (அவசர அழைப்புகள் இல்லை)."
 
 msgid "back_fi_backed_up_version_prompt"
-msgstr ""
+msgstr "காப்புப்பிரதி பதிப்பு: %s"
 
 msgid "back_fi_backup_general_error"
-msgstr ""
+msgstr "காப்பு பிழை ஏற்பட்டது"
 
 msgid "back_fi_backup_incompatible"
 msgstr ""
+"காப்புப்பிரதி எடுக்க முடியவில்லை.\n"
+" புதுப்பிக்கப்பட வேண்டிய காப்புப்பிரதி சாதனத்துடன் பொருந்தாது."
 
 msgid "back_fi_backup_memory_card_insufficient_space"
 msgstr ""
+"காப்புப்பிரதியை முடிக்க நினைவக கார்டில் போதுமான நினைவகம் இல்லை.\n"
+" கிடைக்கும் நினைவகம்: %s\n"
+" தேவையான நினைவகம்: %s"
 
 msgid "back_fi_backup_memory_card_not_found"
 msgstr ""
+"நினைவக அட்டை கிடைக்கவில்லை.\n"
+" நினைவக கார்டை மீண்டும் சேர்க்கவும், மீண்டும் தொடங்கவும்."
 
 msgid "back_fi_backup_memory_card_protected"
 msgstr ""
+"நினைவக அட்டை அல்லது இலக்கு கோப்புறை படிக்க மட்டுமே.\n"
+" வேறு அட்டையைச் செருகவும் அல்லது கோப்புறையை மாற்றவும்."
 
 msgid "back_fi_bookmarks"
-msgstr ""
+msgstr "புக்மார்க்குகள்"
 
 msgid "back_fi_communication_calendar"
-msgstr ""
+msgstr "தொடர்பு மற்றும் காலெண்டர்"
 
 msgid "back_fi_corrupt_backup"
-msgstr ""
+msgstr "காப்புப்பிரதி சிதைந்தது"
 
 msgid "back_fi_delete_backup"
 msgstr ""
+"காப்புப்பிரதியை நீக்கவா?\n"
+" %s"
 
 msgid "back_fi_dia001_content"
-msgstr ""
+msgstr "திருப்தி:"
 
 msgid "back_fi_dia001_memory_card_unavailable_usb_connected"
 msgstr ""
+"நினைவக அட்டை கிடைக்கவில்லை.\n"
+" யூ.எச்.பி கேபிள் இணைக்கப்பட்டுள்ளது."
 
 msgid "back_fi_dia001_no_memory_card_present"
-msgstr ""
+msgstr "நினைவக அட்டை செருகப்படவில்லை"
 
 msgid "back_fi_dia001_this_backup_was_taken_on"
-msgstr ""
+msgstr "காப்புப்பிரதிகள்"
 
 msgid "back_fi_dia002_bkp_name"
-msgstr ""
+msgstr "காப்புப்பிரதி பெயர்"
 
 msgid "back_fi_dia002_location"
-msgstr ""
+msgstr "இடம்"
 
 msgid "back_fi_dia002_memorycard_external"
-msgstr ""
+msgstr "வெளிப்புற நினைவக அட்டை"
 
 msgid "back_fi_dia009_text_2"
 msgstr ""
+"சாதனம் அதே பெயரின் கோப்புறையைக் கொண்டுள்ளது.\n"
+" தரவு இழப்பைத் தடுக்க கோப்புறையை காப்புப்பிரதியிலிருந்து மறுபெயரிடவா?"
 
 msgid "back_fi_dia009_text_3"
 msgstr ""
+"சாதனம் அதே பெயரின் கோப்பைக் கொண்டுள்ளது. தரவு இழப்பைத் தடுக்க காப்புப்பிரதியிலிருந்து "
+"கோப்பை மறுபெயரிடவா?"
 
 msgid "back_fi_dia009a_text"
-msgstr ""
+msgstr "சாதனம் இந்த கோப்பின் அண்மைக் கால பதிப்பைக் கொண்டுள்ளது:"
 
 msgid "back_fi_dia009b_text"
-msgstr ""
+msgstr "கோப்பை அதன் பழைய காப்புப்பிரதியுடன் மாற்றவா?"
 
 msgid "back_fi_dia010_data_restored"
-msgstr ""
+msgstr "%s மீட்டெடுக்கப்பட்டது"
 
 msgid "back_fi_dia010_text"
-msgstr ""
+msgstr "பின்வரும் தரவை மீட்டெடு முழுமையடையாது:"
 
 msgid "back_fi_general_error"
-msgstr ""
+msgstr "பிழை"
 
 msgid "back_fi_memory_full"
-msgstr ""
+msgstr "இலக்கு நினைவகம் நிரம்பியுள்ளது"
 
 msgid "back_fi_newer_version_prompt"
-msgstr ""
+msgstr "மிக அண்மைக் கால பதிப்பு: %s"
 
 msgid "back_fi_no_backups_present"
-msgstr ""
+msgstr "(காப்புப்பிரதிகள் எதுவும் கிடைக்கவில்லை)"
 
 msgid "back_fi_nodata_tobackup"
-msgstr ""
+msgstr "காப்புப்பிரதிக்கு தரவு இல்லை"
 
 msgid "back_fi_not011_backup_successfully_completed"
 msgstr ""
+"காப்புப்பிரதி முடிந்தது.\n"
+" %s காப்புப் பிரதி எடுக்கப்பட்டது."
 
 msgid "back_fi_not013_restore_successfully_completed"
 msgstr ""
+"முழுமையான மீட்டமை.\n"
+" %s மீட்டெடுக்கப்பட்டது."
 
 msgid "back_fi_not026_msg"
-msgstr ""
+msgstr "%s இல் %s இலிருந்து பழைய காப்புப்பிரதி இழக்கப்படும். தொடரவா?"
 
 msgid "back_fi_not028_msg"
 msgstr ""
+"காப்புப்பிரதி ரத்து செய்யப்பட்டது.\n"
+" %2$d கோப்புகளின் %1$d வெற்றிகரமாக காப்புப் பிரதி எடுக்கப்பட்டது."
 
 msgid "back_fi_not029_msg"
 msgstr ""
+"ரத்துசெய்யப்பட்டது.\n"
+" %1$d %2$d கோப்புகள் வெற்றிகரமாக மீட்டெடுக்கப்பட்டன."
 
 msgid "back_fi_other"
-msgstr ""
+msgstr "பிற கோப்புகள்"
 
 msgid "back_fi_password_protect"
-msgstr ""
+msgstr "கடவுச்சொல்லுடன் பாதுகாக்கவும்"
 
 msgid "back_fi_restore_general_error"
-msgstr ""
+msgstr "பிழை ஏற்பட்டது"
 
 msgid "back_fi_restore_incompatible"
 msgstr ""
+"மீட்டெடுக்க முடியவில்லை.\n"
+" பொருந்தாத காப்புப்பிரதி."
 
 msgid "back_fi_restore_insufficient_space"
 msgstr ""
+"சாதனத்தில் போதுமான சேமிப்பக நினைவகம் இல்லை.\n"
+" முதலில் சில தரவை நீக்கி மீண்டும் முயற்சிக்கவும்."
 
 msgid "back_fi_restore_memory_card_not_found"
 msgstr ""
+"நினைவக அட்டை கண்டறியப்படவில்லை.\n"
+" ஒரு அட்டையைச் செருகவும், மீண்டும் முயற்சிக்கவும்."
 
 msgid "back_fi_restore_memory_card_removed"
 msgstr ""
+"செயல்பாட்டின் போது நினைவக அட்டை அகற்றப்பட்டது.\n"
+" அட்டையை மீண்டும் சேர்க்கவும், மீண்டும் முயற்சிக்கவும்."
 
 msgid "back_fi_restoring_cancelled"
-msgstr ""
+msgstr "ரத்து செய்யப்பட்டது"
 
 msgid "back_fi_select_oneoption"
-msgstr ""
+msgstr "குறைந்தது 1 விருப்பம் தேர்ந்தெடுக்கப்பட வேண்டும்"
 
 msgid "back_fi_settings"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 msgid "back_fi_unknown_error"
-msgstr ""
+msgstr "தெரியாத பிழை"
 
 msgid "back_ia_dia002_name"
-msgstr ""
+msgstr "காப்புப்பிரதி"
 
 msgid "back_ib_password_incorrect"
-msgstr ""
+msgstr "தவறான கடவுச்சொல்"
 
 msgid "back_li_de_size_10mb_1gb"
-msgstr ""
+msgstr "%.1f Mb"
 
 msgid "back_li_de_size_1mb_10mb"
-msgstr ""
+msgstr "%எம்பி"
 
 msgid "back_li_de_size_larger_than_1gb"
-msgstr ""
+msgstr "%.2f சிபி"
 
 msgid "back_li_de_size_max_999kb"
-msgstr ""
+msgstr "%d kb"
 
 msgid "back_li_size_100kb_10mb"
-msgstr ""
+msgstr "%.1f Mb"
 
 msgid "back_li_size_10mb_1gb"
-msgstr ""
+msgstr "%எண்ணுங்கள்"
 
 msgid "back_li_size_larger_than_1gb"
-msgstr ""
+msgstr "%.1F சிபி"
 
 msgid "back_li_size_max_99kb"
-msgstr ""
+msgstr "%d kb"
 
 msgid "back_ti_backup_filter"
-msgstr ""
+msgstr "காப்புப்பிரதிக்கு தரவைத் தேர்ந்தெடுக்கவும்"
 
 msgid "back_ti_dia002_title"
-msgstr ""
+msgstr "புதிய காப்புப்பிரதி"
 
 msgid "back_ti_dia010_restore_incomplete"
-msgstr ""
+msgstr "முழுமையடையாததை மீட்டெடுங்கள்"
 
 msgid "back_ti_restore_filter"
-msgstr ""
+msgstr "மீட்டமைக்க தரவைத் தேர்ந்தெடுக்கவும்"
 
 msgid "back_ti_restore_query"
-msgstr ""
+msgstr "பதிப்பு மோதல்"
 
 msgid "back_va_backed_up_category"
 msgstr ""
+"காப்புப்பிரதி\n"
+" %s"
 
 msgid "back_va_finalizing_restore"
-msgstr ""
+msgstr "இறுதி"
 
 msgid "back_va_initializing_restore"
-msgstr ""
+msgstr "துவக்கம்"
 
 msgid "back_va_restoring_category"
 msgstr ""
+"மீட்டமைத்தல்\n"
+" %s"
 
 msgid "calc_va_percentage"
-msgstr ""
+msgstr "%d %%"
